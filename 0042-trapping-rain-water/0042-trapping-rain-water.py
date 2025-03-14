@@ -9,12 +9,16 @@ class Solution:
 
         res = 0
         while l < r:
-            if leftmax <= rightmax:
-                res += leftmax - height[l] if leftmax - height[l] > 0 else 0
+            if leftmax < rightmax:
                 l += 1
                 leftmax = max(leftmax , height[l])
+                res += leftmax - height[l]
+                
             else:
-                res += rightmax - height[r] if rightmax - height[r] > 0 else 0
                 r -= 1
                 rightmax = max(rightmax , height[r])
+                res += rightmax - height[r]
+        return res
+
+                
         return res
