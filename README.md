@@ -35,6 +35,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
@@ -94,6 +95,7 @@ A collection of LeetCode solutions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
@@ -133,4 +135,8 @@ A collection of LeetCode solutions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
