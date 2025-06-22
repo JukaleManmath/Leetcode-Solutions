@@ -19,6 +19,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0883-car-fleet) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0792-binary-search) |
 ## String
 |  |
 | ------- |
