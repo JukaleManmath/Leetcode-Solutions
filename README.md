@@ -22,6 +22,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0883-car-fleet) |
+| [0907-koko-eating-bananas](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 ## String
 |  |
 | ------- |
