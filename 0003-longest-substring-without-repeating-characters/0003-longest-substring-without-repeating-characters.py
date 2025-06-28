@@ -1,6 +1,6 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        # Brute force
+        # Brute force - O(n ^2)
         # longest = 0
         # n = len(s)
         # for i in range(n):
@@ -12,6 +12,8 @@ class Solution:
         #             break
         #     longest = max(longest, len(arr))
         # return longest
+
+        # Optimal - O(n) solution
         map = {}
         n = len(s)
         left, right = 0 , 0
