@@ -3,9 +3,8 @@ class Solution:
         # Brute Force
         n = len(nums)
         for i in range(n):
-            num2 = target - nums[i]
             for j in range(i+1, n):
-                if nums[j] == num2:
+                if nums[i] + nums[j] == target:
                     return [i,j]
         return [0,0]
 
