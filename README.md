@@ -73,6 +73,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -157,6 +158,7 @@ A collection of LeetCode solutions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1023-time-based-key-value-store](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
@@ -175,6 +177,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -199,4 +202,8 @@ A collection of LeetCode solutions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
