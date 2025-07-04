@@ -4,9 +4,8 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def mergeTwoList(self, lists:List[Optional[ListNode]])-> ListNode:
-        l1 = lists[0]
-        l2 = lists[1]
+    # O(n*k)
+    def mergeTwoList(self, l1, l2):
         dummy = ListNode(0)
         curr = dummy
 
@@ -27,7 +26,7 @@ class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
         while len(lists) > 1:
             l1 , l2 = lists.pop(0), lists.pop(0)
-            l3 = self.mergeTwoList([l1,l2])
+            l3 = self.mergeTwoList(l1, l2)
             lists.append(l3)
         return lists[0] if lists else None
 
