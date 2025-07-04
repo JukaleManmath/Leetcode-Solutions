@@ -4,7 +4,6 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    # O(n*k)
     def mergeTwoList(self, l1, l2):
         dummy = ListNode(0)
         curr = dummy
@@ -24,12 +23,14 @@ class Solution:
         return dummy.next
             
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        # Brute force
+        # Brute force- O(n*k)
         # while len(lists) > 1:
         #     l1 , l2 = lists.pop(0), lists.pop(0)
         #     l3 = self.mergeTwoList(l1, l2)
         #     lists.append(l3)
         # return lists[0] if lists else None
+
+        # merge sort or divide and conquer -O(n logk)
         if not lists or len(lists) == 0:
             return None
         
