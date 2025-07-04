@@ -27,6 +27,8 @@ class Solution:
         # arr[n-1].next = None
         # return arr[0]
 
+
+        # O(n) - time and. O(1) -> space
         dummy = ListNode(0, head)
         groupPrev = dummy 
 
