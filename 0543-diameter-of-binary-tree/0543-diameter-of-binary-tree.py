@@ -19,6 +19,8 @@ class Solution:
 
     #     sub = max(self.diameterOfBinaryTree(root.left), self.diameterOfBinaryTree(root.right))
     #     return max(diameter, sub)
+
+    # dfs approach - O(n)
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         res = 0
         def dfs(root):
