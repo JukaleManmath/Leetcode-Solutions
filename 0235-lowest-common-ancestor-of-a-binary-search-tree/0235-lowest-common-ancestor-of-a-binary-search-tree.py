@@ -19,7 +19,7 @@ class Solution:
         #     return self.lowestCommonAncestor(root.right, p , q)
         # return self.lowestCommonAncestor(root.left, p , q)
 
-        # Iterative approach
+        # Iterative approach - time complexity O(h) , space complexity o(1)
         curr = root
         while curr:
             if curr.val < p.val and curr.val < q.val:
