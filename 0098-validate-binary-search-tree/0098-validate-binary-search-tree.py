@@ -10,16 +10,31 @@ class Solution:
         # should be greater the root and in the left should less than root
         # so we set max_value while moving in left as root.val and min_val moving right as root.val
         # recursively performing this logic gets the correct answer using DFS.
-        def dfs(root, left, right):
-            if not root:
-                return True
+        # def dfs(root, left, right):
+        #     if not root:
+        #         return True
             
-            if not( left < root.val < right):
+        #     if not( left < root.val < right):
+        #         return False
+            
+        #     return dfs(root.left, left, root.val) and dfs(root.right, root.val, right)
+        # return dfs(root, float("-inf"), float("inf"))
+            
+        # We can also perform this using BFS
+        q = deque()
+        q.append((root,float("-inf"), float("inf")))
+
+        while q:
+            node, left, right = q.popleft()
+
+            if not (left < node.val < right):
                 return False
             
-            return dfs(root.left, left, root.val) and dfs(root.right, root.val, right)
-        return dfs(root, float("-inf"), float("inf"))
-            
+            if node.left:
+                q.append((node.left, left , node.val))
+            if node.right:
+                q.append((node.right, node.val, right ))
+        return True
 
 
         
