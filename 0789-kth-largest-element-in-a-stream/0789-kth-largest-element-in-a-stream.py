@@ -24,6 +24,7 @@ class KthLargest:
             heapq.heappop(self.min_heap)
         return self.min_heap[0]
 
+        # time comp. - O(m *logk) space is O(k) where m is the number of add calls made
 
 # Your KthLargest object will be instantiated and called as such:
 # obj = KthLargest(k, nums)
