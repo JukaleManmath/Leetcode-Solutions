@@ -118,6 +118,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0155-min-stack](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Math
@@ -235,6 +237,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -279,6 +282,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
@@ -294,4 +298,9 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
