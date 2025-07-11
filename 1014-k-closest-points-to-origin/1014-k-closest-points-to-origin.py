@@ -10,7 +10,9 @@ class Solution:
         for i in points:
             x , y = i[0], i[1]
             dis = abs(x**2 + y**2)
-            heapq.heappush(minHeap, [dis, x, y])
+            minHeap.append([dis, x, y])
+            
+        heapq.heapify(minHeap)
 
         while k > 0:
             dis, x, y = heapq.heappop(minHeap)
