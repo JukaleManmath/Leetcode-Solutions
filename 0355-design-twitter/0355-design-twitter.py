@@ -1,13 +1,11 @@
 class Twitter:
 
     def __init__(self):
-        self.tweets = {}
-        self.follows = {}
+        self.tweets = defaultdict(list)
+        self.follows = defaultdict(set)
         self.time = 0
 
     def postTweet(self, userId: int, tweetId: int) -> None:
-        if userId not in self.tweets:
-            self.tweets[userId] = []
         self.tweets[userId].append((self.time, tweetId))
         self.time -= 1
         
@@ -15,9 +13,9 @@ class Twitter:
     def getNewsFeed(self, userId: int) -> List[int]:
         res = []
         minheap = []
-        if userId not in self.follows:
-            self.follows[userId] = set()
+
         self.follows[userId].add(userId)
+
         for followeeId in self.follows[userId]:
             if followeeId in self.tweets:
                 index = len(self.tweets[followeeId]) - 1
@@ -34,18 +32,14 @@ class Twitter:
         return res
 
 
-
-
     def follow(self, followerId: int, followeeId: int) -> None:
-        if followerId not in self.follows:
-            self.follows[followerId] = set()
         self.follows[followerId].add(followeeId)
 
 
     def unfollow(self, followerId: int, followeeId: int) -> None:
-        if followerId in self.follows:
-            if followeeId in self.follows[followerId] and followerId != followeeId:
-                self.follows[followerId].remove(followeeId)
+        
+        if followeeId in self.follows[followerId] and followerId != followeeId:
+            self.follows[followerId].remove(followeeId)
 
 
 # Your Twitter object will be instantiated and called as such:
