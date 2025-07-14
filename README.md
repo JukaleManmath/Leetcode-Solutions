@@ -43,6 +43,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0143-reorder-list](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0883-car-fleet) |
@@ -129,6 +131,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0621-task-scheduler) |
@@ -189,6 +192,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0146-lru-cache](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -324,6 +328,7 @@ A collection of LeetCode solutions to ace the coding interview!
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Geometry
 |  |
