@@ -27,7 +27,7 @@ class MedianFinder:
         if len(self.small) < len(self.large):
             return self.large[0]
         
-        return ((-1 * self.small[0]) + self.large[0]) / 2
+        return ((-1 * self.small[0]) + self.large[0]) / 2.0
 
         
 
