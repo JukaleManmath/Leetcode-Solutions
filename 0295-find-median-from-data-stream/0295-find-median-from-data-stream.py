@@ -12,6 +12,7 @@ class MedianFinder:
             val = heapq.heappop(self.small)
             heapq.heappush(self.large, (-1 * val))
         
+        #uneven size?
         if len(self.small) > len(self.large) + 1:
             val = heapq.heappop(self.small)
             heapq.heappush(self.large, (-1 * val))
