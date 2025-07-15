@@ -11,7 +11,7 @@ class Solution:
                 if j > i and candidates[j] == candidates[j - 1]:
                     continue
                 if total + candidates[j] > target:
-                    break
+                    return
                 curr.append(candidates[j])
                 dfs(j+1,  curr, total+candidates[j])
                 curr.pop()
