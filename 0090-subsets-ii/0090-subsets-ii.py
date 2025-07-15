@@ -4,18 +4,13 @@ class Solution:
         subset = []
         nums.sort()
         def dfs(i, curr):
-            if i == len(nums):
-                if curr not in res:
-                    res.append(curr.copy())
-                return
-            curr.append(nums[i])
-            dfs(i+1, curr)
-            
-            curr.pop()
-            while i + 1 < len(nums) and nums[i] == nums[i+1]:
-                i += 1
-            dfs(i+1, curr)
-            
-            
+            res.append(curr.copy())
+            for j in range(i, len(nums)):
+                if j > i and nums[j] == nums[j-1]:
+                    continue
+                curr.append(nums[j])
+                dfs(j+1, curr)
+                curr.pop()
+                
         dfs(0, subset)
         return res
