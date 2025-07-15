@@ -6,9 +6,11 @@ class Solution:
             if i >= len(nums):
                 res.append(subset.copy())
                 return
+            # exploring the choice
             subset.append(nums[i])
             dfs_rec(i + 1)
 
+            #backtracking the choice
             subset.pop()
             dfs_rec(i + 1)
         
