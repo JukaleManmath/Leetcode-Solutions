@@ -3,7 +3,7 @@ class Solution:
         res = []
         candidates.sort()
         def dfs(i, curr, total):
-            if total == target:
+            if total == target and curr not in res:
                 res.append(curr.copy())
                 return
             
