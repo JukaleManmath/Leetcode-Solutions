@@ -3,11 +3,16 @@ class Solution:
         if idx == len(word):
             return True
         
-        if i < 0 or i >= len(board) or j < 0 or len(board[0]) <= j or board[i][j] != word[idx] or board[i][j] == "#":
+        if (i < 0 or i >= len(board) or j < 0 or 
+            len(board[0]) <= j or board[i][j] != word[idx] 
+            or board[i][j] == "#"):
             return False
 
         board[i][j] = "#"
-        res = self.backtrack(i+1,j,board,word,idx+1) or self.backtrack(i-1,j,board,word,idx+1) or self.backtrack(i,j+1,board,word,idx+1) or self.backtrack(i,j-1,board,word,idx+1)   
+        res = (self.backtrack(i+1,j,board,word,idx+1) or
+                 self.backtrack(i-1,j,board,word,idx+1) or 
+                 self.backtrack(i,j+1,board,word,idx+1) or 
+                 self.backtrack(i,j-1,board,word,idx+1))
         board[i][j] = word[idx]
         return res
 
