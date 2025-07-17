@@ -13,12 +13,13 @@ class Solution:
         }
 
         def dfs(i, curr):
-            if len(curr) == len(digits):
+            if i == len(digits):
                 res.append(curr)
                 return
             for d in range(len(mp[digits[i]])):
-                dfs(i+1, curr + mp[digits[i]][d])
-
+                curr += mp[digits[i]][d]
+                dfs(i+1, curr)
+                curr = curr[:-1]
         if digits:
             dfs(0,"")
         return res
