@@ -28,16 +28,16 @@ class Solution:
         board = [["."] * n for _ in range(n)]
 
         def backtrack(r):
-            if r == n:
+            if r == n:  # Base Case
                 solution = ["".join(row) for row in board]
                 res.append(solution)
                 return
             
-            for c in range(n):
-                if self.isSafe(board , r, c):
+            for c in range(n): # number of choices at each step - columns for weach row
+                if self.isSafe(board , r, c): # Controlled recursion
                     board[r][c] = "Q"
                     backtrack(r+1)
-                    board[r][c] = "."
+                    board[r][c] = "."   #Backtracking
         backtrack(0)
         return res
         
