@@ -17,9 +17,8 @@ class Solution:
                 res.append(curr)
                 return
             for d in range(len(mp[digits[i]])):
-                curr += mp[digits[i]][d]
-                dfs(i+1, curr)
-                curr = curr[:-1]
+                dfs(i+1, curr + mp[digits[i]][d])
+        
         if digits:
             dfs(0,"")
         return res
