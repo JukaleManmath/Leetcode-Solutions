@@ -74,6 +74,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -170,6 +171,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0078-subsets](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Queue
 |  |
 | ------- |
