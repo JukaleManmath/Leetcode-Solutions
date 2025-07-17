@@ -33,7 +33,7 @@ class Solution:
                 res.append(solution)
                 return
             
-            for c in range(n): # number of choices at each step - columns for weach row
+            for c in range(n): # number of choices at each step - columns for each row
                 if self.isSafe(board , r, c): # Controlled recursion
                     board[r][c] = "Q"
                     backtrack(r+1)
