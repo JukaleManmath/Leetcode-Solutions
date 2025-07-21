@@ -26,6 +26,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0212-word-search-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -78,6 +79,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -116,6 +118,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -257,6 +260,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0079-word-search](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 ## Queue
 |  |
 | ------- |
@@ -374,4 +378,5 @@ A collection of LeetCode solutions to ace the coding interview!
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
