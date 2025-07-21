@@ -25,14 +25,14 @@ class Solution:
                 return
             visit.add((r,c))
             word += board[r][c]
-            child = root.children[board[r][c]]
-            if child.isLeaf:
+            root = root.children[board[r][c]]
+            if root.isLeaf:
                 res.add(word)
 
-            dfs(r + 1, c , word , child)
-            dfs(r - 1, c , word , child)
-            dfs(r , c + 1 , word , child)
-            dfs(r , c - 1 , word , child)
+            dfs(r + 1, c , word , root)
+            dfs(r - 1, c , word , root)
+            dfs(r , c + 1 , word , root)
+            dfs(r , c - 1 , word , root)
             visit.remove((r, c))
         for r in range(row):
             for c in range(col):
