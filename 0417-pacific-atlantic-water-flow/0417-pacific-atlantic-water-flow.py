@@ -1,5 +1,6 @@
 class Solution:
     def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
+        # time complexity O(m*n) due to visited array saving visiting all the repeated points
         rows, cols = len(heights), len(heights[0])
         res = []
         pac, atl = set(), set()
