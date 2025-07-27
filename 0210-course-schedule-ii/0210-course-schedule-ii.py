@@ -1,5 +1,6 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
+        # Kahn's algo just storing the order
         adj = [[] for _ in range(numCourses)]
         for ai, bi in prerequisites:
             adj[bi].append(ai)
