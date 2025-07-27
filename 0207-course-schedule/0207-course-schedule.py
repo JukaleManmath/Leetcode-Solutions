@@ -1,4 +1,5 @@
 class Solution:
+    # BFS in a DAG finding cycle - Kahn's Algo.
     def constructadj(self, n , prerequisites):
         adj = [[] for _ in range(n)]
         for ai, bi in prerequisites:
