@@ -58,7 +58,7 @@ class Solution:
         visited = set()
         res = 0
         minheap = [(0,0)]
-        while minheap:
+        while len(visited) < n:
             cost, node = heapq.heappop(minheap)
             if node in visited:
                 continue
