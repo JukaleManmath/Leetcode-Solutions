@@ -1,5 +1,6 @@
 class Solution:
     def swimInWater(self, grid: List[List[int]]) -> int:
+        # Djikistras algo
         n = len(grid)
         minheap = [(grid[0][0], 0 , 0)]
         visited = set([(0,0)])
