@@ -24,13 +24,13 @@ class Solution:
         # return res
 
         adj = defaultdict(list)
-        tickets.sort()
+        tickets.sort(reverse = True)
         for src, dst in tickets:
             adj[src].append(dst)
         res = []
         def dfs(src):
             while adj[src]:
-                dst = adj[src].pop(0)
+                dst = adj[src].pop()
                 dfs(dst)
             res.append(src)
         dfs("JFK")
