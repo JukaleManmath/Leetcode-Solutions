@@ -43,7 +43,7 @@ class Solution:
         #         res += dist
         # return res
 
-        # prims algo
+        # prims algo - using min heap (choose one min cost edge at a time which is not visited until the minheap is empty and all the vertices are traversed)
         n = len(points)
         adj = [[] for i in range(n)]
 
