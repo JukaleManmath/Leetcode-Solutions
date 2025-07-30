@@ -22,7 +22,8 @@ class Solution:
         #     return False
         # dfs("JFK")
         # return res
-
+        
+        #traversing each node exactly once
         adj = defaultdict(list)
         tickets.sort(reverse = True)
         for src, dst in tickets:
