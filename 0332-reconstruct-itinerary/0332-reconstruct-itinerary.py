@@ -23,7 +23,7 @@ class Solution:
         # dfs("JFK")
         # return res
         
-        #traversing each node exactly once
+        #traversing each node exactly once- Hieroholzer's algo O(ElogE)
         adj = defaultdict(list)
         tickets.sort(reverse = True)
         for src, dst in tickets:
