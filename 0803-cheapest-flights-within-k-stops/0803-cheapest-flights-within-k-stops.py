@@ -8,18 +8,18 @@ class Solution:
             adj[u].append([v,cst])
         
         dist[src][0] = 0
-        minheap = [(0,src, -1)]
+        minheap = [(0,src, 0)]
         while len(minheap):
             cst , node, stops = heapq.heappop(minheap)
             if dst == node:
                 return cst
-            if stops == k or dist[node][stops + 1] < cst:
+            if stops == k+1 or dist[node][stops] < cst:
                 continue
             for nei , w in adj[node]:
                 ncst = cst + w
                 nextstops = stops + 1
-                if dist[nei][nextstops + 1] > ncst:
-                    dist[nei][nextstops + 1]= ncst
+                if dist[nei][nextstops ] > ncst:
+                    dist[nei][nextstops ]= ncst
                     heapq.heappush(minheap, (ncst, nei, nextstops))
         return -1
 
