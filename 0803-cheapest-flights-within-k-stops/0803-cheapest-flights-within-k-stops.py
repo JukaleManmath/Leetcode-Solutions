@@ -1,5 +1,6 @@
 class Solution:
     def findCheapestPrice(self, n: int, flights: List[List[int]], src: int, dst: int, k: int) -> int:
+        # Djikistras algo
         adj = [[] for _ in range(n)]
         inf = float("inf")
         dist = [[inf] * (k+5) for _ in range(n)]
