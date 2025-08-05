@@ -42,6 +42,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0794-swim-in-rising-water](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0883-car-fleet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
@@ -117,6 +118,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0940-fruit-into-baskets](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1023-time-based-key-value-store](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Union Find
@@ -233,6 +235,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0940-fruit-into-baskets](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 ## Design
 |  |
 | ------- |
