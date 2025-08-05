@@ -15,7 +15,7 @@ class Solution:
         #     return cache[i]
     
         # return min(dfs(0), dfs(1))
-
+        # Bottom-up
         n = len(cost)
         dp = [0] * (n + 1)
         for i in range(2, n+1):
