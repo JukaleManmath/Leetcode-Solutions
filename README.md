@@ -271,6 +271,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
 |  |
@@ -294,6 +295,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | ------- |
 | [0078-subsets](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
 |  |
