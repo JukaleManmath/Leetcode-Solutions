@@ -43,7 +43,7 @@ class Solution:
         # return res
 
         # DP
-
+        # O(n2) - time and space
         idx , reslen = 0 , 0
         n = len(s)
         dp = [[False] * n for _ in range(n)]
