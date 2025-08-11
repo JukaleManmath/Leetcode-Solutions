@@ -11,7 +11,7 @@ class Solution:
 
             memo[i] = dfs(i+1)
             if i + 1 <= len(s) -1:
-                if(s[i] == "1" or (s[i]=="2" and s[i +1] <"7")):
+                if(s[i] == "1" or s[i]=="2" and s[i +1] <"7"):
                     memo[i] += dfs(i+2)
             return memo[i]
         return dfs(0)
