@@ -20,7 +20,7 @@ class Solution:
         #     res = max(res, max(p,s))
         # return res
         
-        # Kadane's algo for 1D dp problems
+        # Kadane's algo for 1D dp problems- O(n) time and O(1) space
         res =nums[0]
         maxprod = minprod = 1
         n = len(nums)
