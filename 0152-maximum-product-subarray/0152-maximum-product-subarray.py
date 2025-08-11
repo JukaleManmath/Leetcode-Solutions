@@ -9,13 +9,24 @@ class Solution:
         #         res= max(res, prod)
         # return res
         
-        res = float("-inf")
-        p = s = 0
-        n = len(nums)
+        #  prefix suffix 
+        # res = float("-inf")
+        # p = s = 0
+        # n = len(nums)
 
+        # for i in range(n):
+        #     p = nums[i] * (p or 1)
+        #     s = nums[n-1-i] * (s or 1)
+        #     res = max(res, max(p,s))
+        # return res
+        
+        res =nums[0]
+        maxprod = minprod = 1
+        n = len(nums)
         for i in range(n):
-            p = nums[i] * (p or 1)
-            s = nums[n-1-i] * (s or 1)
-            res = max(res, max(p,s))
+            x = nums[i]
+            temp = x * maxprod
+            maxprod = max(x, x * maxprod, x*minprod)
+            minprod = min(x, temp, x*minprod)
+            res = max(res, maxprod)
         return res
- 
