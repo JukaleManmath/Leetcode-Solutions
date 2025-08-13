@@ -9,7 +9,7 @@ class Solution:
         
             for j in range(i + 1, n+1):
                 if s[i:j] in words and dfs(j):
-                    memo[i] = True
+                    memo[j -i] = True
                     return True
             memo[i] = False
             return False
