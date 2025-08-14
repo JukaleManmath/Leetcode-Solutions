@@ -23,7 +23,7 @@ class Solution:
                 LIS = dp[i+1][j+1]
 
                 if j == -1 or nums[j] < nums[i]:
-                    LIS = max(LIS, 1 + dp[i+1][i+1])
+                    LIS = max(LIS, 1 + dp[i + 1][i+1])
                 dp[i][j+1] = LIS
         
         return dp[0][0]
