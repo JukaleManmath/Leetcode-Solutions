@@ -9,8 +9,8 @@ class Solution:
                 return memo[i][j]
             if s1[-1] == s2[-1]:
                 memo[i][j] =  1 + dfs(s1[:-1], s2[:-1])
-                return memo[i][j]
-            memo[i][j] =  max(dfs(s1[:-1], s2), dfs(s1, s2[:-1]))
+            else:
+                memo[i][j] =  max(dfs(s1[:-1], s2), dfs(s1, s2[:-1]))
             return memo[i][j]
 
         return dfs(text1, text2)
