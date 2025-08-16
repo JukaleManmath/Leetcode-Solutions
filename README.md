@@ -224,6 +224,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -285,6 +286,7 @@ A collection of LeetCode solutions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0231-power-of-two) |
@@ -519,4 +521,8 @@ A collection of LeetCode solutions to ace the coding interview!
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
