@@ -112,6 +112,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [1023-time-based-key-value-store](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [1250-longest-common-subsequence](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [3617-find-the-original-typed-string-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Hash Table
 |  |
@@ -241,6 +242,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0647-palindromic-substrings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1250-longest-common-subsequence](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
