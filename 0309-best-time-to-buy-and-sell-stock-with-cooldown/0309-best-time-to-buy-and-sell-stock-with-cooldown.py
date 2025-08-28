@@ -3,8 +3,9 @@ class Solution:
         # state: buying or selling?
         # buy : i + 1 or cooldown
         # sell : i + 2 (necessary cooldown) or cooldown
-
-        dp = {} #key: (i,buying) value : maxprofit
+        
+        # caching or Topdown apprach
+        dp = {} #key: (i,buying) value : maxprofit 
         def dfs(i, buying):
             if i >= len(prices):
                 return 0
