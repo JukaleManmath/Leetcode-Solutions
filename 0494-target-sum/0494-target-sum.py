@@ -3,10 +3,8 @@ class Solution:
         #options - add or subtract
         dp = {}
         def dfs(i, res):
-            if i >= len(nums) and res != target:
-                return 0
-            if i == len(nums) and res == target:
-                return 1
+            if i == len(nums):
+                return res == target
             if (i,res) in dp:
                 return dp[(i,res)]
             dp[(i,res)] =  dfs(i + 1 , res + nums[i]) + dfs(i+1, res - nums[i])
