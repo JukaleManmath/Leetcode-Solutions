@@ -13,5 +13,5 @@ class Solution:
                 return dfs(i+1, j+1)
             res = 1 + min(dfs(i +1, j), dfs(i , j +1), dfs(i+1, j+1))
             dp[(i,j)] = res
-            return res
+            return  dp[(i,j)]
         return dfs(0,0)
