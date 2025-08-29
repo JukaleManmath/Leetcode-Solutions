@@ -12,8 +12,7 @@ class Solution:
             if word1[i] == word2[j]:
                 return dfs(i+1, j+1)
             else:
-                res = min(dfs(i + 1, j), dfs(i, j + 1))
-                res = min(res, dfs(i + 1, j + 1))
-                dp[(i, j)] = res + 1
+                res = 1 + min(dfs(i +1, j), dfs(i , j +1), dfs(i+1, j+1))
+            dp[(i,j)] = res
             return  dp[(i,j)]
         return dfs(0,0)
