@@ -11,6 +11,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0039-combination-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0051-n-queens) |
@@ -238,6 +239,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0010-regular-expression-matching](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0062-unique-paths) |
@@ -494,6 +496,7 @@ A collection of LeetCode solutions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 ## Trie
