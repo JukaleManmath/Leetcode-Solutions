@@ -83,6 +83,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0768-partition-labels) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [3617-find-the-original-typed-string-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
@@ -152,6 +154,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1023-time-based-key-value-store](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
@@ -505,6 +508,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0055-jump-game](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Trie
