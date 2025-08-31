@@ -20,17 +20,30 @@ class Solution:
         #         j += 1
         # return res
 
-        if sum(gas) < sum(cost):
-            return -1
-        n = len(gas)
-        res = 0
-        total = 0
-        for i in range(n):
-            total += gas[i] - cost[i]
-            if total < 0:
-                total = 0
-                res = i +1
+        # if sum(gas) < sum(cost):
+        #     return -1
+        # n = len(gas)
+        # res = 0
+        # total = 0
+        # for i in range(n):
+        #     total += gas[i] - cost[i]
+        #     if total < 0:
+        #         total = 0
+        #         res = i +1
                 
-        return res 
+        # return res 
+
+        n = len(gas)
+        r , l = n -1, 0
+        tank = gas[r] - cost[r]
+        while r > l:
+            if tank < 0:
+                r -= 1
+                tank += gas[r] - cost[r]
+            else:
+                tank += gas[l] - cost[l]
+                l += 1
+        return r if tank >= 0 else -1
+
 
 
