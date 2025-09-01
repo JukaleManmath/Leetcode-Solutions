@@ -11,4 +11,3 @@ class Solution:
             for j in range(i+1, m):
                 if i != j:
                     matrix[i][j] , matrix[j][i] = matrix[j][i] , matrix[i][j]
-        return matrix
