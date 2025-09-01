@@ -68,6 +68,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1036-rotting-oranges](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1706-min-cost-to-connect-all-points](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [3790-fruits-into-baskets-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0794-swim-in-rising-water](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [3790-fruits-into-baskets-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0876-hand-of-straights](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0803-cheapest-flights-within-k-stops](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -582,4 +586,8 @@ A collection of LeetCode solutions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0062-unique-paths) |
+## Line Sweep
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
