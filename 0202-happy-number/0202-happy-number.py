@@ -8,16 +8,10 @@ class Solution:
                 res += rem * rem
             return res
 
-        slow = next(n)
-        fast = next(next(n))
-        if slow == 1 or fast == 1:
-            return True
-            
+        slow, fast = n , next(n)
+
         while slow != fast:
-            if slow == 1 or fast == 1:
-                return True
-            else:
-                slow = next(slow)
-                fast = next(next(fast))
-        return False
+            slow = next(slow)
+            fast = next(next(fast))
+        return True if fast == 1 else False
         
