@@ -117,6 +117,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
@@ -342,6 +343,7 @@ A collection of LeetCode solutions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
@@ -588,6 +590,7 @@ A collection of LeetCode solutions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
