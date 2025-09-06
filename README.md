@@ -46,6 +46,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -102,6 +103,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0792-binary-search) |
@@ -164,6 +166,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0202-happy-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -225,6 +228,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -357,6 +361,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
 |  |
@@ -409,6 +414,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0136-single-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0338-counting-bits) |
 ## Merge Sort
