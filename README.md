@@ -72,6 +72,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1706-min-cost-to-connect-all-points](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -365,6 +366,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0268-missing-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Linked List
 |  |
 | ------- |
