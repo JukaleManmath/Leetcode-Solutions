@@ -1,17 +1,14 @@
 class Solution:
     def peopleAwareOfSecret(self, n: int, delay: int, forget: int) -> int:
-        total = 1
-        share = 0
-        aware = [0] * n
+        aware, spread, total = [0]* n,  0 , 1
         aware[0] = 1
-
-        for i in range(1, n):
-            if i >= delay:
-                share += aware[i - delay]
+        for i in range(1,n):
+            if i>= delay:
+                spread += aware[i-delay]
             if i >= forget:
+                spread -= aware[i - forget]
                 total -= aware[i- forget]
-                share -= aware[i - forget]
-            aware[i] = share
-            total += share
-            
+            total += spread
+            aware[i] = spread
+        
         return total % (10 **9 + 7)
