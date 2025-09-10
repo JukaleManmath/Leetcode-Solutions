@@ -6,6 +6,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
@@ -86,6 +87,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
