@@ -1,5 +1,10 @@
 class Solution:
     def minimumTeachings(self, n: int, languages: List[List[int]], friendships: List[List[int]]) -> int:
+        # so first we check all the freindships that can they communicate by checking ig their languages overlap
+        # if not we add it to the set of needing a common language
+        # after that we through all the language 1, n and with the help of greedy find the 
+        # language which need min people to be taught so that everyone shares a common tongue
+        
         need = set()
 
         for u , v in friendships:
