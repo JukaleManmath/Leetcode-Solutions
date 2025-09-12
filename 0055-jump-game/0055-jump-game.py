@@ -1,7 +1,9 @@
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
-        target = len(nums) - 1
-        for i in range(len(nums) -2, -1, -1):
-            if nums[i] + i >= target:
-                target = i
-        return target == 0
+        canjump = 0
+        n = len(nums)
+        for i in range(n-1):
+            if canjump == i and nums[i] == 0:
+                return False
+            canjump = max(canjump,i + nums[i])
+        return canjump >= n -1
