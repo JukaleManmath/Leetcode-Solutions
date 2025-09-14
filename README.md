@@ -134,6 +134,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
@@ -170,6 +171,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0049-group-anagrams) |
@@ -386,6 +388,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0062-unique-paths) |
