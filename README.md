@@ -99,6 +99,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
@@ -581,6 +583,7 @@ A collection of LeetCode solutions to ace the coding interview!
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
