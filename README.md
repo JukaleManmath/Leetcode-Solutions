@@ -25,6 +25,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0055-jump-game](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0057-insert-interval) |
+| [0068-text-justification](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0078-subsets) |
@@ -149,6 +150,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0079-word-search) |
@@ -675,6 +677,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | ------- |
 | [0043-multiply-strings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3790-fruits-into-baskets-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
