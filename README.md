@@ -93,6 +93,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [2139-detect-squares](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2139-detect-squares) |
 | [2429-design-a-food-rating-system](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3797-design-spreadsheet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [2887-sort-vowels-in-a-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
+| [3797-design-spreadsheet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [2139-detect-squares](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2139-detect-squares) |
 | [2429-design-a-food-rating-system](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Union Find
 |  |
@@ -251,6 +254,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
+| [3797-design-spreadsheet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -408,6 +412,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [2139-detect-squares](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2139-detect-squares) |
 | [2429-design-a-food-rating-system](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
 | ------- |
