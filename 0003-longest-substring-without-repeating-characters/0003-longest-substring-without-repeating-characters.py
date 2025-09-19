@@ -1,29 +1,14 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        # Brute force - O(n ^2)
-        # longest = 0
-        # n = len(s)
-        # for i in range(n):
-        #     arr = []
-        #     for j in range(i, n):
-        #         if s[j] not in arr:
-        #             arr.append(s[j])
-        #         else:
-        #             break
-        #     longest = max(longest, len(arr))
-        # return longest
-
-        # Optimal - O(n) solution
-        map = {}
         n = len(s)
-        left, right = 0 , 0
-        longest = 0
-        while right < n:
-            map[s[right]] = 1 + map.get(s[right], 0)
-            if map[s[right]] > 1:
-                while map[s[right]] > 1:
-                    map[s[left]] -= 1
-                    left += 1  
-            longest = max(longest, right - left + 1)
-            right += 1
-        return longest
+        mp = {}
+        l = r = 0
+        longest = -1
+        while r < n:
+            mp[s[r]] = 1 + mp.get(s[r], 0)
+            while mp[s[r]] >= 2:
+                mp[s[l]] -= 1
+                l += 1   
+            longest = max(longest, r - l + 1)
+            r += 1
+        return longest if longest != -1 else 0
