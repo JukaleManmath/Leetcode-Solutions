@@ -1,31 +1,35 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        if t == "":
+        if not s or not t or len(s) < len(t):
             return ""
-        countT , window = {}, {}
-        for c in t:
-            countT[c] = 1 + countT.get(c, 0)
 
-        res , resLen = [-1, -1] , float("infinity")
-        have , need = 0 , len(countT)
+        countt = Counter(t)
+        window= {}
+        need = len(t)
+        have = 0
+        n = len(s)
         l = 0
-        for r in range(len(s)):
-            c = s[r]
-            window[c] = 1 + window.get(c, 0)
-            if c in countT and window[c] == countT[c]:
+        minlen = n + 1
+        res = ""
+        for i in range(n):
+            ch = s[i]
+            window[ch] = window.get(ch, 0) + 1
+
+            if ch in t and window[ch] <= countt[ch]:
                 have += 1
-            
+
             while have == need:
-                if r - l + 1 < resLen:
-                    resLen = r - l + 1
-                    res = [l , r]
+                if i - l + 1 < minlen:
+                    minlen = i - l + 1
+                    res = s[l : i + 1]
                 
                 window[s[l]] -= 1
-
-                if s[l] in countT and window[s[l]] < countT[s[l]]:
+                if s[l] in t and window[s[l]] < countt[s[l]]:
                     have -= 1
                 l += 1
-        
-        l , r = res
-        return s[l: r + 1] if resLen != float("infinity") else ""
+            
+        return res
 
+
+
+                 
