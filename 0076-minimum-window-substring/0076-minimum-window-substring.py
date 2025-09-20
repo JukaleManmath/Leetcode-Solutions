@@ -5,7 +5,7 @@ class Solution:
 
         countt = Counter(t)
         window= {}
-        need = len(t)
+        need = len(countt)
         have = 0
         n = len(s)
         l = 0
@@ -15,7 +15,7 @@ class Solution:
             ch = s[i]
             window[ch] = window.get(ch, 0) + 1
 
-            if ch in t and window[ch] <= countt[ch]:
+            if ch in t and window[ch] == countt[ch]:
                 have += 1
 
             while have == need:
