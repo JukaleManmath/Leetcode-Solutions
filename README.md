@@ -95,6 +95,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2139-detect-squares](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2139-detect-squares) |
 | [2429-design-a-food-rating-system](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3790-fruits-into-baskets-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
@@ -232,6 +233,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2139-detect-squares](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2139-detect-squares) |
 | [2429-design-a-food-rating-system](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -328,6 +330,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [2139-detect-squares](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2139-detect-squares) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
