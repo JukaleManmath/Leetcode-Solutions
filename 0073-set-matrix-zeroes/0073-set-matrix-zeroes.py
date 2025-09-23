@@ -3,17 +3,17 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        n , m = len(matrix), len(matrix[0])
-        col = [False] * m
-        row = [False] * n
-        for i in range(n):
-            for j in range(m):
+        m , n = len(matrix), len(matrix[0])
+        row, col = [False] * m , [False] * n
+
+        for i in range(m):
+            for j in range(n):
                 if matrix[i][j] == 0:
                     row[i] = True
                     col[j] = True
 
-        for i in range(n):
-            for j in range(m):
+        for i in range(m):
+            for j in range(n):
                 if row[i] or col[j]:
                     matrix[i][j] = 0
         
