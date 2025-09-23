@@ -5,8 +5,7 @@ class Solution:
         """
         n = len(matrix)
         for i in range(n//2):
-            for j in range(n):
-                matrix[n-1-i][j] , matrix[i][j] = matrix[i][j],  matrix[n-1-i][j]
+            matrix[n-1-i] , matrix[i] = matrix[i],  matrix[n-1-i]
         
         i , j = 0 , 0
         for i in range(n):
