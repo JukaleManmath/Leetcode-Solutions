@@ -181,6 +181,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0383-ransom-note) |
@@ -226,6 +227,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -303,6 +305,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
