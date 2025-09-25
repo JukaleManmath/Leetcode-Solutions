@@ -1,17 +1,8 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        # Brute Force
-        # n = len(nums)
-        # for i in range(n):
-        #     for j in range(i+1, n):
-        #         if nums[i] + nums[j] == target:
-        #             return [i,j]
-        # return [0,0]
-
-        n = len(nums)
-        map = {}
-        for i in range(n):
-            if nums[i] in map:
-                return [map[nums[i]], i]
-            map[target - nums[i]] = i
-        
+        mp = {}
+        for i in range(len(nums)):
+            if nums[i] in mp:
+                return [mp[nums[i]], i]
+            mp[target - nums[i]] = i
+        retrun [-1, -1]
