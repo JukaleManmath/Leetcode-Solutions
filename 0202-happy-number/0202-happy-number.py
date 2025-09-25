@@ -1,17 +1,22 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
-        def next(n):
+        def square(n):
             res = 0
             while n:
-                rem = n % 10
-                n = n // 10
-                res += rem * rem
+                res += (n% 10) ** 2
+                n //= 10
             return res
-
-        slow, fast = n , next(n)
-
-        while slow != fast:
-            slow = next(slow)
-            fast = next(next(fast))
-        return True if fast == 1 else False
         
+        seen = []
+        while True:
+            n = square(n)
+            if n == 1:
+                return True
+            elif n in seen:
+                return False
+            else:
+                seen.append(n)
+
+            
+
+                
