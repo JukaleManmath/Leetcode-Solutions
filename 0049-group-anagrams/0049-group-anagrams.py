@@ -1,23 +1,16 @@
-class Solution(object):
-    def groupAnagrams(self, strs):
-        """
-        :type strs: List[str]
-        :rtype: List[List[str]]
-        """
-        #using sorting  with O(m * nlogn). ans space compl. O(m * n)
-        # res = defaultdict(list)
-
-        # for s in strs:
-        #     sorteds = "".join(sorted(s))
-        #     res[sorteds].append(s)
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        res = []
+        mp = {}
+        for i in range(len(strs)):
+            raw = str(sorted(strs[i]))
+            if raw not in mp:
+                mp[raw] = [strs[i]]
+            else:
+                mp[raw].append(strs[i])
         
-        # return list(res.values())
+        for i in mp:
+            res.append(mp[i])
+        return res
 
         
-        res = defaultdict(list)
-        for s in strs:
-            count= [0] * 26
-            for c in s:
-                count[ord(c) - ord("a")] += 1
-            res[tuple(count)].append(s)
-        return list(res.values())
