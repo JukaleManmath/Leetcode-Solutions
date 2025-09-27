@@ -83,6 +83,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0747-min-cost-climbing-stairs](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [0830-largest-triangle-area](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0876-hand-of-straights](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -472,6 +473,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0268-missing-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0830-largest-triangle-area](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -659,6 +661,7 @@ A collection of LeetCode solutions to ace the coding interview!
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Greedy
 |  |
