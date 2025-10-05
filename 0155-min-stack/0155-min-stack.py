@@ -2,26 +2,21 @@ class MinStack:
 
     def __init__(self):
         self.stack = []
-        self.minheap = []
+        self.minstack = []
 
     def push(self, val: int) -> None:
         self.stack.append(val)
-        heapq.heappush(self.minheap, val)
-
+        val = min(val, self.minstack[-1]) if self.minstack else val
+        self.minstack.append(val)
     def pop(self) -> None:
         self.stack.pop()
+        self.minstack.pop()
 
     def top(self) -> int:
         return self.stack[-1]
 
     def getMin(self) -> int:
-        while self.minheap:
-            minele = self.minheap[0]
-            if minele in self.stack:
-                return minele
-            else:
-                heapq.heappop(self.minheap)
-            
+        return self.minstack[-1]
             
         
 
