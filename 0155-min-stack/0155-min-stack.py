@@ -15,12 +15,7 @@ class MinStack:
         return self.stack[-1]
 
     def getMin(self) -> int:
-        while self.minheap:
-            minele = self.minheap[0]
-            if minele in self.stack:
-                return minele
-            else:
-                heapq.heappop(self.minheap)
+        return self.minheap[-1]
             
             
         
