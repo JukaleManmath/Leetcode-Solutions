@@ -191,6 +191,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -423,6 +424,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0143-reorder-list](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -478,6 +480,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
@@ -514,6 +517,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
