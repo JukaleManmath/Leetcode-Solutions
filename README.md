@@ -102,6 +102,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2139-detect-squares](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2139-detect-squares) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3790-fruits-into-baskets-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0768-partition-labels) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0907-koko-eating-bananas](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3790-fruits-into-baskets-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
@@ -331,6 +334,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Heap (Priority Queue)
 |  |
