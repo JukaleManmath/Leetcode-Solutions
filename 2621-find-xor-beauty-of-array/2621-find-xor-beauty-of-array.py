@@ -18,11 +18,7 @@ class Solution:
         # if we solve the equation consider all values same and 2 values same and all are different,
         # only the all values same gives us the result and all the other scenario gives 0
         # at the end we can just XOR all the values in the original nums which will give us optimised answer
-        # res = 0
-        # for i in nums:
-        #     res = res ^ i
-        # return res
-
-        for i in range(1, len(nums)):
-            nums[i] = nums[i] ^ nums[i-1]
-        return nums[-1]
+        res = 0
+        for i in nums:
+            res = res ^ i
+        return res
