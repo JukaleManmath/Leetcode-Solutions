@@ -619,6 +619,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -675,6 +676,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0744-network-delay-time) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0794-swim-in-rising-water](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
