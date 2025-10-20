@@ -18,7 +18,7 @@ class LRUCache:
         node.prev, node.next = prevnode, nex
     def remove(self, node):
         prev , nex = node.prev, node.next
-        prev.next = nex
+        prev.next, nex.prev = nex, prev
 
     def get(self, key: int) -> int:
         if key in self.cache:
@@ -36,7 +36,7 @@ class LRUCache:
         self.insert(self.cache[key])
         if len(self.cache) > self.capacity:
             node = self.left.next
-            self.remove(node)
+            self.remove(self.cache[node.key])
             del self.cache[node.key]
         
 
