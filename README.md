@@ -636,6 +636,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0764-n-ary-tree-level-order-traversal](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -669,6 +670,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -697,6 +699,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
 | ------- |
