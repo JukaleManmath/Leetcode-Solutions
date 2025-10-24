@@ -288,6 +288,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1834-minimum-number-of-people-to-teach](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2139-detect-squares](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2139-detect-squares) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2429-design-a-food-rating-system](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -401,6 +402,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0383-ransom-note](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [2139-detect-squares](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2139-detect-squares) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -534,6 +536,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [2050-count-good-numbers](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2621-find-xor-beauty-of-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2621-find-xor-beauty-of-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -586,6 +589,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Queue
 |  |
 | ------- |
@@ -860,6 +864,7 @@ A collection of LeetCode solutions to ace the coding interview!
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Number Theory
 |  |
 | ------- |
