@@ -106,6 +106,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2139-detect-squares](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2139-detect-squares) |
+| [2169-simple-bank-system](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2621-find-xor-beauty-of-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2621-find-xor-beauty-of-array) |
@@ -288,6 +289,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1834-minimum-number-of-people-to-teach](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2139-detect-squares](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2139-detect-squares) |
+| [2169-simple-bank-system](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2429-design-a-food-rating-system](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -507,6 +509,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1023-time-based-key-value-store](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2139-detect-squares](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2139-detect-squares) |
+| [2169-simple-bank-system](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
@@ -828,6 +831,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0289-game-of-life](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [1642-water-bottles](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
