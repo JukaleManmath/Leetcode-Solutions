@@ -9,8 +9,8 @@ class Solution:
         def dfs(node):
             if not node:
                 return 0
-            left = 1 + dfs(node.left)
-            right = 1 + dfs(node.right)
+            left = dfs(node.left)
+            right = dfs(node.right)
 
-            return max(left, right)
+            return 1 + max(left, right)
         return dfs(root)
