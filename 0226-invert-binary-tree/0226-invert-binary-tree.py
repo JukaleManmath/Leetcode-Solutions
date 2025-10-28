@@ -6,19 +6,12 @@
 #         self.right = right
 class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        #PostOrder Traversal
-        if root is None:
-            return
-        left = self.invertTree(root.left)
-        right = self.invertTree(root.right)
+        def dfs(node):
+            if not node:
+                return
+            left = dfs(node.left)
+            right = dfs(node.right)
 
-        root.left, root.right = right, left
-        return root
-
-        # PreOrder traversal
-        # if root is None:
-        #     return
-        # root.left , root.right = root.right, root.left
-        # self.invertTree(root.left)
-        # self.invertTree(root.right)
-        # return root
+            node.left, node.right = right, left
+            return node
+        return dfs(root)
