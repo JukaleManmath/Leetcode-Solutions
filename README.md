@@ -100,6 +100,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1706-min-cost-to-connect-all-points](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1876-map-of-highest-peak](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1917-maximum-average-pass-ratio](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -329,6 +330,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
+| [1876-map-of-highest-peak](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3797-design-spreadsheet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
@@ -710,6 +712,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1876-map-of-highest-peak](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
