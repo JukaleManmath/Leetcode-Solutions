@@ -9,8 +9,6 @@ class Solution:
                 for _ in range(len(q)):
                     row, col = q.popleft()
                     res[row][col] = h
-                    visited[(row, col)] = True
-
                     for dr , dc in direction:
                         nr , nc = row + dr , col + dc
                         if (nr,nc) not in visited and 0 <= nr < n and 0 <= nc < m:
