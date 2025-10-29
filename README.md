@@ -554,6 +554,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3336-water-bottles-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3830-find-closest-person) |
 ## Linked List
@@ -620,6 +621,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0338-counting-bits](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [2621-find-xor-beauty-of-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2621-find-xor-beauty-of-array) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Merge Sort
 |  |
 | ------- |
