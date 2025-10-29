@@ -155,6 +155,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0768-partition-labels](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [2887-sort-vowels-in-a-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -887,6 +889,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Number Theory
 |  |
 | ------- |
