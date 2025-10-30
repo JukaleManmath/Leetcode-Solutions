@@ -253,6 +253,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4052-equal-score-substrings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/4052-equal-score-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -348,6 +349,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [4052-equal-score-substrings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/4052-equal-score-substrings) |
 | [4059-design-exam-scores-tracker](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/4059-design-exam-scores-tracker) |
 ## Divide and Conquer
 |  |
