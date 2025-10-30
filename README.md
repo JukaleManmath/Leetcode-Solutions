@@ -125,6 +125,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
+| [4003-longest-fibonacci-subarray](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/4003-longest-fibonacci-subarray) |
 ## Two Pointers
 |  |
 | ------- |
