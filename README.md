@@ -163,6 +163,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [4073-lexicographically-smallest-string-after-reverse](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [4059-design-exam-scores-tracker](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/4059-design-exam-scores-tracker) |
+| [4073-lexicographically-smallest-string-after-reverse](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## String
 |  |
 | ------- |
@@ -913,6 +915,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [4073-lexicographically-smallest-string-after-reverse](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Number Theory
 |  |
 | ------- |
