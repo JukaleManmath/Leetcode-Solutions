@@ -10,5 +10,4 @@ class Solution:
                         dp[i][j] = dp[i-1][j] + dp[i][j-1]
                 else:
                     dp[i][j] = 0
-        print(dp)
         return dp[n][m]
