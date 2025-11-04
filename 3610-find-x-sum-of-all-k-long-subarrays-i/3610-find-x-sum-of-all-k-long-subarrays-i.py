@@ -5,15 +5,12 @@ class Solution:
         for i in range(n - k + 1):
             res = nums[i:i+k]
             count = Counter(res)
-            if len(count) < x:
-                ans.append(sum(res))
-                continue
             heap = []
             for i in count:
                 heapq.heappush(heap, (-count[i], -i))
 
             nr = []
-            while len(nr) < x:
+            while len(nr) < x and heap:
                 cnt , num = heapq.heappop(heap)
                 nr.append(num * cnt)
             
