@@ -29,7 +29,6 @@ class Solution:
         
         while left <= right:
             mid = (left + right) // 2
-            print(mid)
             if ispossible(mid, stations[:], k):
                 left = mid + 1
                 res = mid     
