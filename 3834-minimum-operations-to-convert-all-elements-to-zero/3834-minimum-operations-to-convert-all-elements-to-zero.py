@@ -1,5 +1,7 @@
 class Solution:
     def minOperations(self, nums: List[int]) -> int:
+        # this is a montonic stack problem (increasing value stack ) keep attention to the values increasing and descreasing.
+        # according to question we are going to go from smallest -> largest and this approach will replace what will smallest removal lead in the way with 100% surity (look at the decision we made)
         
         stack = []
         res = 0
