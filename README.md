@@ -121,6 +121,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [2618-maximize-the-minimum-powered-city](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2621-find-xor-beauty-of-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2621-find-xor-beauty-of-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3334-apple-redistribution-into-boxes](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -613,6 +614,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [2288-count-operations-to-obtain-zero](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2621-find-xor-beauty-of-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2621-find-xor-beauty-of-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3336-water-bottles-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -973,5 +975,6 @@ A collection of LeetCode solutions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
