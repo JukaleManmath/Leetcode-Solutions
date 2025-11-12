@@ -23,10 +23,10 @@ class Solution:
             for j in range(i+1, n):
                 cur = math.gcd(cur, nums[j])
                 if cur == 1:
-                    min_len = min(min_len, j - i + 1)
+                    min_len = min(min_len, j - i)
                     break
         
-        return min_len + n - 2
+        return min_len + n - 1
         
 
     
