@@ -4,10 +4,11 @@ class Solution:
             return False
         
         def maxdivide(num , b):
-            while num % b == 0:
-                num = num // b
+            aa = num
+            while aa % b == 0:
+                aa = aa // b
             
-            return num
+            return aa
         
         res = n
         res = maxdivide(res , 2)
