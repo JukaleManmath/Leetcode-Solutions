@@ -274,6 +274,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2887-sort-vowels-in-a-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3617-find-the-original-typed-string-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -567,6 +568,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Design
@@ -982,6 +984,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Number Theory
