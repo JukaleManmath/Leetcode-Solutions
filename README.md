@@ -118,6 +118,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [2139-detect-squares](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2139-detect-squares) |
 | [2169-simple-bank-system](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
@@ -334,6 +335,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [2139-detect-squares](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2139-detect-squares) |
 | [2169-simple-bank-system](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2429-design-a-food-rating-system](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -432,6 +434,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3334-apple-redistribution-into-boxes](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
@@ -944,6 +947,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1642-water-bottles](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
