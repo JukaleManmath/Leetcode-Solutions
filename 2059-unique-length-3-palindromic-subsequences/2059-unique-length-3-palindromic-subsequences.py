@@ -6,10 +6,9 @@ class Solution:
         for i in s:
             if right[i]:
                 right[i] -= 1
-                if right[i] == 0:
-                    del right[i]
+
             for j in left:
-                if j in right:
+                if right[j] > 0:
                     res.add((j , i))
             
             left.add(i)
