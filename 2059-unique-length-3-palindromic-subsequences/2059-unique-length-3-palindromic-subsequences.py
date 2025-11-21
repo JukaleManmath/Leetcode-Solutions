@@ -4,8 +4,7 @@ class Solution:
         right = Counter(s)
         res = set()
         for i in s:
-            if right[i]:
-                right[i] -= 1
+            right[i] -= 1
 
             for j in left:
                 if right[j] > 0:
