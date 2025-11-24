@@ -98,6 +98,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1006-vowel-spellchecker](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -721,6 +722,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2621-find-xor-beauty-of-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2621-find-xor-beauty-of-array) |
