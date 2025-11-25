@@ -334,6 +334,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0876-hand-of-straights](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -634,6 +635,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0380-insert-delete-getrandom-o1](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0830-largest-triangle-area](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
