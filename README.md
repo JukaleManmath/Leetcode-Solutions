@@ -125,6 +125,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2621-find-xor-beauty-of-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2621-find-xor-beauty-of-array) |
 | [2625-increment-submatrices-by-one](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
@@ -391,6 +392,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1876-map-of-highest-peak](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [3797-design-spreadsheet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
@@ -548,6 +550,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Stack
 |  |
