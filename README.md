@@ -138,6 +138,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [3334-apple-redistribution-into-boxes](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -417,6 +418,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [2625-increment-submatrices-by-one](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3748-count-stable-subarrays](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3748-count-stable-subarrays) |
@@ -671,6 +673,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-water-bottles-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
