@@ -4,8 +4,7 @@ class Solution:
         res = []
         def backtrack(idx, arr):
             if idx >= n:
-                if arr not in res:
-                    res.append(arr[:])
+                res.append(arr[:])
                 return
             arr.append(nums[idx])
             backtrack(idx + 1, arr)
