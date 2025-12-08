@@ -1,18 +1,16 @@
-class Solution:        
+class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        res = []
-        subset = []
-        def dfs_rec(i):
-            if i >= len(nums):
-                res.append(subset.copy())
+        n = len(nums)
+        res = [[]]
+        def backtrack(idx, arr):
+            if idx >= n:
+                if arr not in res:
+                    res.append(arr[:])
                 return
-            # exploring the choice
-            subset.append(nums[i])
-            dfs_rec(i + 1)
-
-            #backtracking the choice
-            subset.pop()
-            dfs_rec(i + 1)
-        
-        dfs_rec(0)
+            arr.append(nums[idx])
+            backtrack(idx + 1, arr)
+            arr.pop()
+            backtrack(idx + 1, arr)
+            return arr
+        backtrack(0, [])
         return res
