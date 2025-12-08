@@ -10,6 +10,7 @@ class Solution:
             backtrack(idx + 1, arr)
             arr.pop()
             backtrack(idx + 1, arr)
+            return arr
             
         backtrack(0, [])
         return res
