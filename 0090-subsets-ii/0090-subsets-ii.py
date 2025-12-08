@@ -7,8 +7,7 @@ class Solution:
 
         def backtrack(i):
             if i >= n:
-                if subset not in res:
-                    res.append(subset[:])
+                res.append(subset[:])
                 return
             subset.append(nums[i])
             backtrack(i + 1)
@@ -16,6 +15,6 @@ class Solution:
             while i+ 1 < n and nums[i] == nums[i + 1]:
                 i += 1
             backtrack(i + 1)
-            return subset
+            
         backtrack(0)
         return res
