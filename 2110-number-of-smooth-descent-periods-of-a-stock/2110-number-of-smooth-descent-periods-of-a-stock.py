@@ -14,7 +14,6 @@ class Solution:
                 smooth_periods += ((l -1) * l) // 2 + l
                 l = r + 1
                 r += 1
-            print(smooth_periods)
         return smooth_periods
 
 
