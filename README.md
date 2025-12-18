@@ -158,6 +158,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3748-count-stable-subarrays](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3748-count-stable-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
@@ -434,6 +435,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3748-count-stable-subarrays](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3748-count-stable-subarrays) |
 | [4052-equal-score-substrings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/4052-equal-score-substrings) |
 | [4059-design-exam-scores-tracker](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/4059-design-exam-scores-tracker) |
@@ -632,6 +634,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Design
 |  |
 | ------- |
