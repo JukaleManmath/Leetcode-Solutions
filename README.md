@@ -95,6 +95,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0883-car-fleet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -284,6 +285,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0647-palindromic-substrings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0768-partition-labels) |
+| [0944-delete-columns-to-make-sorted](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-distinct-subsequences-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0977-distinct-subsequences-ii) |
 | [1006-vowel-spellchecker](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
