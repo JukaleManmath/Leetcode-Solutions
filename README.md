@@ -97,6 +97,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0940-fruit-into-baskets](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -288,6 +289,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0768-partition-labels](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0944-delete-columns-to-make-sorted](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0977-distinct-subsequences-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0977-distinct-subsequences-ii) |
 | [1006-vowel-spellchecker](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
@@ -583,6 +585,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0977-distinct-subsequences-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0977-distinct-subsequences-ii) |
 | [1250-longest-common-subsequence](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
