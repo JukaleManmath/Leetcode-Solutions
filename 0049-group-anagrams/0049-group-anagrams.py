@@ -1,23 +1,12 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        # res = []
-        # mp = {}
-        # for i in range(len(strs)):
-        #     raw = str(sorted(strs[i]))
-        #     if raw not in mp:
-        #         mp[raw] = [strs[i]]
-        #     else:
-        #         mp[raw].append(strs[i])
-        
-        # for i in mp:
-        #     res.append(mp[i])
-        # return res
+        mp = {}
 
-        res = defaultdict(list)
-        for s in strs:
-            count = [0] * 26
-            for ch in s:
-                count[ord(ch)- ord('a')] += 1
-            res[tuple(count)].append(s)
-        return list(res.values())
-        
+        n = len(strs)
+        for i in range(n):
+            curr = "".join(sorted(strs[i]))
+            if curr in mp:
+                mp[curr].append(strs[i])
+            else:
+                mp[curr] = [strs[i]]
+        return list(mp.values())
