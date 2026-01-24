@@ -117,6 +117,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1706-min-cost-to-connect-all-points](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1876-map-of-highest-peak](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -208,6 +209,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0647-palindromic-substrings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -497,6 +499,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2054-two-best-non-overlapping-events](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2092-find-all-people-with-secret) |
@@ -986,6 +989,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
