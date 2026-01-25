@@ -121,6 +121,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1917-maximum-average-pass-ratio](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2054-two-best-non-overlapping-events](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
@@ -501,6 +502,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -659,6 +661,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
