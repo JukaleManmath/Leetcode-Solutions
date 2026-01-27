@@ -19,7 +19,7 @@ class Solution:
             if visited[currnode]:
                 continue
             visited[currnode] = True
-
+            # Relaxing the neighbor
             for v, w in graph[currnode]:
                 newdist = currdist + w
                 if newdist < dist[v]:
