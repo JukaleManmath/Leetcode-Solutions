@@ -8,41 +8,43 @@ class Solution:
         for i in range(len(original)):
             g[original[i]].append([cost[i], changed[i]])
         
-        def shortestDist(graph, a, b):
+        needed_pairs = [(s, t) for s, t in zip(source, target) if s != t]
+        if not needed_pairs:
+            return 0
+        
+        starts = set( s for s, _ in needed_pairs)
+        def shortestDist(graph, a):
             heap = [[0, a]]
             visited = set()
+            dist = {a: 0}
 
             while heap:
                 currdist , node = heapq.heappop(heap)
-
-                if node == b:
-                    return currdist
                 if node in visited:
                     continue
                 
                 visited.add(node)
                 for d , n in graph[node]:
                     newdist = currdist + d
-                    heapq.heappush(heap, (newdist, n))
+                    if newdist < dist.get(n, float("inf")):
+                        dist[n] = newdist
+                        heapq.heappush(heap, (newdist, n))
                 
-            return -1
+            return dist
         
-        dist = {}
+        best = {}
+        for s in starts:
+            best[s] = shortestDist(g, s)
+
         total = 0
         for i in range(n):
             if source[i] == target[i]:
                 continue
             else:
-                if (source[i], target[i]) in dist:
-                    total += dist[(source[i], target[i])]
-                else:
-                    curr = shortestDist(g, source[i], target[i])
-
-                    if curr == -1:
-                        return -1
-                    
-                    dist[(source[i], target[i])] = curr
-                    total += curr
+                bd = best[source[i]].get(target[i], float("inf"))
+                if bd == float("inf"):
+                    return -1
+                total += bd
         
         return total
 
