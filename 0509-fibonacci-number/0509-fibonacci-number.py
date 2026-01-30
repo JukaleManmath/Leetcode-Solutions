@@ -11,5 +11,4 @@ class Solution:
             dp[n] = rec(n-1) + rec(n-2)
             return dp[n]
         
-        dp[n] = rec(n)
-        return dp[n]
+        return rec(n)
