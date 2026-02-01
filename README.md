@@ -74,6 +74,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0403-frog-jump](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -606,6 +607,7 @@ A collection of LeetCode solutions to ace the coding interview!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
