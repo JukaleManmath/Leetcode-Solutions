@@ -21,6 +21,28 @@ class Solution:
         # return max(rec(0, True), rec(1, False))
 
         # Bottom-up / Tabulation
+        # n = len(nums)
+        # if n == 0:
+        #     return 0
+        # if n == 1:
+        #     return nums[0]
+        
+        # def helper(arr):
+        #     m = len(arr)
+        #     dp = [-1] * (m)
+        #     dp[0] = arr[0]
+        #     for i in range(1, m):
+        #         take = arr[i]
+        #         if i > 1:
+        #             take += dp[i - 2]
+        #         notake = dp[i - 1]
+        #         dp[i] = max(take, notake)
+        #     return dp[m -1]
+        
+        # return max(helper(nums[:-1]), helper(nums[1:]))
+
+
+        # space optimized - O(1) & time -> same  O(n)
         n = len(nums)
         if n == 0:
             return 0
@@ -29,20 +51,15 @@ class Solution:
         
         def helper(arr):
             m = len(arr)
-            if m == 1:
-                return arr[0]
-            dp = [-1] * (m)
-            dp[0] = arr[0]
-            dp[1] = max(arr[0], arr[1])
-            for i in range(2, m):
-                # take = arr[i]
-                # if i > 1:
-                #     take += dp[i - 2]
-                # notake = dp[i - 1]
-                # dp[i] = max(take, notake)
-
-                dp[i] = max(dp[i -1] , arr[i] + dp[i -2])
-            return dp[m -1]
+            prev = arr[0]
+            prev2 = 0
+            for i in range(1, m):
+                take = arr[i] + prev2
+                notake = prev
+                curr = max(take, notake)
+                prev2 = prev
+                prev = curr
+            return prev
         
         return max(helper(nums[:-1]), helper(nums[1:]))
-            
+
