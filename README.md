@@ -242,6 +242,7 @@ Each problem folder contains:
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
+| [3637-trionic-array-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3748-count-stable-subarrays](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3748-count-stable-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
