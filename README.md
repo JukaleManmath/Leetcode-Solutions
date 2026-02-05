@@ -219,6 +219,7 @@ Each problem folder contains:
 | [3242-count-elements-with-maximum-frequency](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3334-apple-redistribution-into-boxes](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
+| [3379-transformed-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -1168,6 +1169,7 @@ Each problem folder contains:
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
