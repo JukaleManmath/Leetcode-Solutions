@@ -243,6 +243,7 @@ Each problem folder contains:
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -598,6 +599,7 @@ Each problem folder contains:
 | [3606-coupon-code-validator](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -755,6 +757,7 @@ Each problem folder contains:
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Design
 |  |
