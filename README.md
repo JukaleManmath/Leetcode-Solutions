@@ -387,6 +387,7 @@ Each problem folder contains:
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -700,6 +701,7 @@ Each problem folder contains:
 | [1250-longest-common-subsequence](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2054-two-best-non-overlapping-events](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
@@ -727,6 +729,7 @@ Each problem folder contains:
 | [0739-daily-temperatures](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0883-car-fleet) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
