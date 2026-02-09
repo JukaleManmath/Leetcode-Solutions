@@ -14,7 +14,6 @@ class Solution:
             arr.append(root.val)
             dfs(root.right)
         dfs(root)
-        arr.sort()
 
         def createBST(arr, start, end):
             if start > end:
