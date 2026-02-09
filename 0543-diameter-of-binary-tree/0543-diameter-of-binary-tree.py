@@ -5,32 +5,16 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-
-    # Brute force - O(n**2)
-    # def maxHeight(self, root):
-    #     if root is None:
-    #         return 0
-    #     return 1 + max(self.maxHeight(root.left), self.maxHeight(root.right))
-    # def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-    #     if root is None:
-    #         return 0
-        
-    #     diameter = self.maxHeight(root.left) + self.maxHeight(root.right)
-
-    #     sub = max(self.diameterOfBinaryTree(root.left), self.diameterOfBinaryTree(root.right))
-    #     return max(diameter, sub)
-
-    # dfs approach - O(n)
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        res = 0
+        dia = float("-inf")
         def dfs(root):
-            nonlocal res
+            nonlocal dia
             if root is None:
                 return 0
             left = dfs(root.left)
             right = dfs(root.right)
-            res = max(res, left+right)
+
+            dia = max(dia, left + right)
             return 1 + max(left, right)
         dfs(root)
-        return res
-
+        return dia
