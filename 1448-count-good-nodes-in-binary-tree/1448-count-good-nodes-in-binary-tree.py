@@ -8,18 +8,17 @@ class Solution:
     def goodNodes(self, root: TreeNode) -> int:
         if not root:
             return 0
-        good = 0
 
         def dfs(node, prev):
-            nonlocal good
             if not node:
-                return 
+                return 0
+            good = 0
             if node.val >= prev:
                 good += 1
-            dfs(node.left, max(node.val, prev))
-            dfs(node.right, max(node.val, prev))
+            good += dfs(node.left, max(node.val, prev))
+            good += dfs(node.right, max(node.val, prev))
+            return good
         
-        dfs(root, float("-inf"))
-        return good
+        return dfs(root, float("-inf"))
 
             
