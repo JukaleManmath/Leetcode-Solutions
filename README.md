@@ -247,6 +247,7 @@ Each problem folder contains:
 | [3637-trionic-array-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3748-count-stable-subarrays](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3748-count-stable-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
@@ -479,6 +480,7 @@ Each problem folder contains:
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3678-design-task-manager](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3678-design-task-manager) |
+| [3719-longest-balanced-subarray-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3797-design-spreadsheet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
@@ -540,6 +542,7 @@ Each problem folder contains:
 | [3616-make-array-elements-equal-to-zero](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3748-count-stable-subarrays](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3748-count-stable-subarrays) |
 | [4052-equal-score-substrings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/4052-equal-score-substrings) |
 | [4059-design-exam-scores-tracker](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/4059-design-exam-scores-tracker) |
@@ -555,6 +558,7 @@ Each problem folder contains:
 | [0347-top-k-frequent-elements](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -1164,6 +1168,7 @@ Each problem folder contains:
 ## Segment Tree
 |  |
 | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
 |  |
