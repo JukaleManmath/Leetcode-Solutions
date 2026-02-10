@@ -948,6 +948,7 @@ Each problem folder contains:
 | [0789-kth-largest-element-in-a-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
@@ -983,6 +984,7 @@ Each problem folder contains:
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -1017,6 +1019,7 @@ Each problem folder contains:
 | [1036-rotting-oranges](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
@@ -1044,6 +1047,7 @@ Each problem folder contains:
 | [0789-kth-largest-element-in-a-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
