@@ -10,7 +10,6 @@ class Solution:
                 j += 1
             ans = max(ans, j - i)
             i = j
-        print(ans)
         # case 2 we consider 2 chars and ignore 1 if they form the longest
         def helper(a, b, c):
             best = 0
@@ -34,13 +33,10 @@ class Solution:
             return best
         
         ans = max(ans, helper("a", "b","c"))
-        print(ans)
         ans = max(ans, helper("b", "c","a"))
-        print(ans)
         ans = max(ans, helper("a", "c","b"))
 
         #case 3 where abc form the longest balanced substr
-        print(ans)
         cnt_a , cnt_b ,cnt_c = 0 , 0 ,0
         mp = defaultdict(int)
         mp[(0,0)] = -1
@@ -58,7 +54,6 @@ class Solution:
                 ans = max(ans , i  - mp[(d1,d2)])
             else:
                 mp[(d1, d2)] = i
-        print(ans)
         return ans
 
 
