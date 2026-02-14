@@ -706,6 +706,7 @@ Each problem folder contains:
 | [0647-palindromic-substrings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0799-champagne-tower](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0977-distinct-subsequences-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0977-distinct-subsequences-ii) |
