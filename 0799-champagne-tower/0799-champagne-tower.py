@@ -5,9 +5,9 @@ class Solution:
 
         for r in range(query_row + 1):
             for c in range(r + 1):
-                q = (glass[r][c] - 1.0) / 2.0
-                if q > 0:
-                    glass[r+1][c] += q
-                    glass[r + 1][c + 1] +=q
+                excess = (glass[r][c] - 1.0) / 2.0
+                if excess > 0:
+                    glass[r+1][c] += excess
+                    glass[r + 1][c + 1] += excess
         return min(1 , glass[query_row][query_glass])
-        
+
