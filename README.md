@@ -346,6 +346,7 @@ Each problem folder contains:
 | [0043-multiply-strings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0072-edit-distance) |
@@ -806,6 +807,7 @@ Each problem folder contains:
 | [0043-multiply-strings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -911,6 +913,7 @@ Each problem folder contains:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0136-single-number) |
@@ -1186,6 +1189,7 @@ Each problem folder contains:
 | ------- |
 | [0043-multiply-strings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [1642-water-bottles](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1642-water-bottles) |
