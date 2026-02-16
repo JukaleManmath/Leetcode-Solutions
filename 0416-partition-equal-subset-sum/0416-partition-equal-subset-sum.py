@@ -6,19 +6,20 @@ class Solution:
             return False
         target = Sum // 2
 
-        dp = [[False for _ in range(target + 1)] for _ in range(n)]
-        for i in range(n):
-            dp[i][0] = True
+        prev = [False for _ in range(target + 1)]
+    
+        prev[0] = True
         if nums[0] <= target:
-            dp[0][nums[0]] = True
+            prev[nums[0]] = True
 
         for i in range(1, n):
-            for j in range(1, target+1):
-                
-                notake = dp[i - 1][j]
+            curr = [False for _ in range(target + 1)]
+            for j in range(1, target+1):          
+                notake = prev[j]
                 take = False
                 if nums[i] <= j:
-                    take = dp[i-1][j - nums[i]]
-                dp[i][j] = take or notake
-        return dp[n-1][target]
+                    take = prev[j - nums[i]]
+                curr[j] = take or notake
+            prev = curr
+        return prev[target]
                  
