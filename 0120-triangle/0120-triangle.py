@@ -11,5 +11,5 @@ class Solution:
         for i in range(n-2, -1, -1):
             for j in range(i + 1):
                 curr[j] = triangle[i][j] + min(nextRow[j] , nextRow[j + 1])
-            nextRow = curr[:]
+            nextRow = curr
         return nextRow[0]
