@@ -6,18 +6,19 @@ class Solution:
             return False
         target = Sum // 2
 
-        dp = [[-1 for _ in range(target + 1)] for _ in range(n)]
-        def rec(i,  tar):
-            if tar == 0:
-                return True
-            if i >= n:
-                return False
-            if dp[i][tar] != -1:
-                return dp[i][tar]
-            
-            take = rec(i + 1, tar - nums[i])
-            notake = rec(i + 1, tar)
+        dp = [[False for _ in range(target + 1)] for _ in range(n)]
+        for i in range(n):
+            dp[i][0] = True
+        if nums[0] <= target:
+            dp[0][nums[0]] = True
 
-            dp[i][tar] =  take or notake
-            return dp[i][tar]
-        return rec(0, target)
+        for i in range(1, n):
+            for j in range(1, target+1):
+                
+                notake = dp[i - 1][j]
+                take = False
+                if nums[i] <= j:
+                    take = dp[i-1][j - nums[i]]
+                dp[i][j] = take or notake
+        return dp[n-1][target]
+                 
