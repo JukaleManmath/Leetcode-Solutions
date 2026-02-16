@@ -1,13 +1,15 @@
 class Solution:
     def minimumTotal(self, triangle: List[List[int]]) -> int:
         n = len(triangle)
-        dp = [[float("inf") for _ in range(i + 1)] for i in range(n)]
-    
-        for i in range(n-1, -1, -1):
-            for j in range(i + 1):
-                if i == n -1:
-                   dp[i][j] = triangle[i][j]
-                   continue
-                dp[i][j] = triangle[i][j] + min(dp[i + 1][j] , dp[i + 1][j + 1])
+        # dp = [[float("inf") for _ in range(i + 1)] for i in range(n)]
+        nextRow = [0] * n
+        curr = [0] * n
 
-        return dp[0][0]
+        for i in range(n):
+            nextRow[i] = triangle[n-1][i]
+    
+        for i in range(n-2, -1, -1):
+            for j in range(i + 1):
+                curr[j] = triangle[i][j] + min(nextRow[j] , nextRow[j + 1])
+            nextRow = curr
+        return nextRow[0]
