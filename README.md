@@ -901,6 +901,7 @@ Each problem folder contains:
 | [0090-subsets-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+| [0401-binary-watch](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Queue
@@ -923,6 +924,7 @@ Each problem folder contains:
 | [0287-find-the-duplicate-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0401-binary-watch](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
