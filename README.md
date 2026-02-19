@@ -286,6 +286,7 @@ Each problem folder contains:
 | [0567-permutation-in-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -378,6 +379,7 @@ Each problem folder contains:
 | [0567-permutation-in-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0696-count-binary-substrings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0944-delete-columns-to-make-sorted](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
