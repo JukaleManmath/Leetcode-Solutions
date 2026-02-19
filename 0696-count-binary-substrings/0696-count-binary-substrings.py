@@ -2,7 +2,7 @@ class Solution:
     def countBinarySubstrings(self, s: str) -> int:
         n = len(s)
         one , zero = 0 , 0
-        l, r = 0, 0
+        r = 0
         ans = 0
         while r < len(s):
             while r < n and s[r] == "0":
