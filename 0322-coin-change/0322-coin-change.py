@@ -1,22 +1,21 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
         n = len(coins)
-        dp = [[-1] * (amount + 1) for _ in range(n)]
-        def rec(ind, t):
-            if t == 0:
-                return 0
-            if ind == 0:
-                return t//coins[0] if t % coins[0] == 0 else float("inf")
-            if dp[ind][t] != -1:
-                return dp[ind][t]
-            
-            notake = rec(ind - 1, t)
-            take = float("inf")
-            if t >= coins[ind]:
-                take = 1 + rec(ind , t - coins[ind])
-            
-            dp[ind][t] =  min(notake, take)
-            return dp[ind][t]
-        ans =  rec(n - 1, amount) 
-        return ans if ans != float("inf") else -1
-            
+        dp = [[0] * (amount + 1) for _ in range(n)]
+        
+        for i in range(amount + 1):
+            if i % coins[0] == 0:
+                dp[0][i] = i // coins[0]
+            else:
+                dp[0][i] = float("inf")
+
+        for i in range(1, n):
+            for j in range(0, amount + 1):
+                notake = dp[i-1][j]
+                take = float("inf")
+                if coins[i] <= j:
+                    take = 1 + dp[i][j - coins[i]]
+                dp[i][j] = min(take, notake)
+        
+        return dp[n-1][amount] if dp[n-1][amount] != float("inf") else -1
+        
