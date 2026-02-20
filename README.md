@@ -380,6 +380,7 @@ Each problem folder contains:
 | [0647-palindromic-substrings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0944-delete-columns-to-make-sorted](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -564,6 +565,7 @@ Each problem folder contains:
 | [0190-reverse-bits](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -586,6 +588,7 @@ Each problem folder contains:
 | [0611-valid-triangle-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0759-set-intersection-size-at-least-two](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 | [0876-hand-of-straights](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
