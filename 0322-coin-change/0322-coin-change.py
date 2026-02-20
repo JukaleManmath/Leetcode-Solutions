@@ -7,7 +7,7 @@ class Solution:
             if i % coins[0] == 0:
                 dp[0][i] = i // coins[0]
             else:
-                dp[0][i] = float("inf")
+                dp[0][i] = 1e5
 
         for i in range(1, n):
             for j in range(0, amount + 1):
@@ -17,5 +17,5 @@ class Solution:
                     take = 1 + dp[i][j - coins[i]]
                 dp[i][j] = min(take, notake)
         
-        return dp[n-1][amount] if dp[n-1][amount] != float("inf") else -1
+        return dp[n-1][amount] if dp[n-1][amount] != 1e5 else -1
         
