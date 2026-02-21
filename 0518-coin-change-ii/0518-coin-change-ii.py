@@ -4,8 +4,6 @@ class Solution:
         dp = [[-1] * (amount + 1) for _ in range(n)]
         def rec(ind, t):
             if ind == 0:
-                if t == 0 and coins[0] == 0:
-                    return 2
                 if t == 0 or t % coins[0] == 0:
                     return 1
                 return 0
