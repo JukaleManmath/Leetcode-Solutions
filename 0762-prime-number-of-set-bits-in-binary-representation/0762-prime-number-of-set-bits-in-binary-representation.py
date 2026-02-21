@@ -9,7 +9,7 @@ class Solution:
         #     return True
 
         def helper(n):
-            prime = {2, 3,5, 7, 11,13,17,19}
+            prime = {2, 3,5, 7, 11,13,17,19} # because the value of 10 ** 6 lies between 2**19 and 2 **20 so we need prime numbers max till 19
             return n in prime
         
         res = 0
