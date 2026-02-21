@@ -19,18 +19,18 @@ class Solution:
 
         # return rec(n-1, amount)
 
-       
-        dp[0][0] = 1
+        prev = [0] * (amount + 1)
+        prev[0] = 1
         
         for t in range(1, amount + 1):
             if t % coins[0] == 0:
-                dp[0][t] += 1
+                prev[t] = 1
         
         for i in range(1, n):
             for j in range(amount + 1):
-                nopick = dp[i-1][j]
+                nopick = prev[j]
                 pick = 0
                 if coins[i] <= j:
-                    pick = dp[i][j - coins[i]]
-                dp[i][j] = pick + nopick
-        return dp[n-1][amount]
+                    pick = prev[j - coins[i]]
+                prev[j] = pick + nopick
+        return prev[amount]
