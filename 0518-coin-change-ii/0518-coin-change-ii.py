@@ -1,20 +1,22 @@
 class Solution:
     def change(self, amount: int, coins: List[int]) -> int:
-        # state : choose if possible or move on
-        dp = {}  # key (i,amount)
-        coins.sort()
-        def dfs(i, amount):
-            if amount == 0 :
-                return 1
-            if i >= len(coins):
+        n = len(coins)
+        dp = [[-1] * (amount + 1) for _ in range(n)]
+        def rec(ind, t):
+            if ind == 0:
+                if t == 0 and coins[0] == 0:
+                    return 2
+                if t == 0 or t % coins[0] == 0:
+                    return 1
                 return 0
-            if (i,amount) in dp:
-                return dp[(i,amount)]
-            res = 0
-            if coins[i] <= amount:
-                res = dfs(i+1, amount)
-                res += dfs(i, amount - coins[i])
-            dp[(i,amount)] = res
-            return dp[(i,amount)]
-                
-        return dfs(0, amount)
+            if dp[ind][t] != -1:
+                return dp[ind][t]
+            nopick = rec(ind - 1, t)
+            pick = 0
+            if coins[ind] <= t:
+                pick = rec(ind, t - coins[ind])
+            
+            dp[ind][t] =  pick + nopick
+            return dp[ind][t]
+
+        return rec(n-1, amount)
