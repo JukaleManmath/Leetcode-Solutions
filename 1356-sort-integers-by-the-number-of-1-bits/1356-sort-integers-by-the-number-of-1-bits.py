@@ -4,7 +4,8 @@ class Solution:
         mp = defaultdict(list)
 
         for i in arr:
-            mp[bin(i).count("1")].append(i)
+            cnt = sum( i >> bit & 1 for bit in range(32) )
+            mp[cnt].append(i)
         
         res = []
         for i in range(14):
