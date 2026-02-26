@@ -392,6 +392,7 @@ Each problem folder contains:
 | [1250-longest-common-subsequence](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -941,6 +942,7 @@ Each problem folder contains:
 | [0868-binary-gap](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1214,6 +1216,7 @@ Each problem folder contains:
 | [0067-add-binary](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0289-game-of-life) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
