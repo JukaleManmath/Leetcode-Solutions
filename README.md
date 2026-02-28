@@ -249,6 +249,7 @@ Each problem folder contains:
 | [3640-trionic-array-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3748-count-stable-subarrays](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3748-count-stable-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
@@ -494,6 +495,7 @@ Each problem folder contains:
 | [3713-longest-balanced-substring-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3797-design-spreadsheet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
@@ -557,6 +559,7 @@ Each problem folder contains:
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3714-longest-balanced-substring-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3748-count-stable-subarrays](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3748-count-stable-subarrays) |
 | [4052-equal-score-substrings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/4052-equal-score-substrings) |
 | [4059-design-exam-scores-tracker](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/4059-design-exam-scores-tracker) |
@@ -574,6 +577,7 @@ Each problem folder contains:
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -1212,6 +1216,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
 |  |
