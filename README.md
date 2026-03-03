@@ -396,6 +396,7 @@ Each problem folder contains:
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -907,6 +908,7 @@ Each problem folder contains:
 | [0224-basic-calculator](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
@@ -1232,6 +1234,7 @@ Each problem folder contains:
 | [0068-text-justification](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
