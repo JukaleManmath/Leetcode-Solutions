@@ -16,9 +16,7 @@ class Solution:
                 return ans
             res = res[:-1]
             res += "1"
-            ans = backtrack(i + 1, res)
-            if ans:
-                return ans
-        
+            return backtrack(i + 1, res)
+            
         return backtrack(0, "")
             
