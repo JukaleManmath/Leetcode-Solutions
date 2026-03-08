@@ -194,6 +194,7 @@ Each problem folder contains:
 | [1917-maximum-average-pass-ratio](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
+| [1980-find-unique-binary-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -406,6 +407,7 @@ Each problem folder contains:
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
@@ -476,6 +478,7 @@ Each problem folder contains:
 | [1590-make-sum-divisible-by-p](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1980-find-unique-binary-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2139-detect-squares](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2139-detect-squares) |
@@ -931,6 +934,7 @@ Each problem folder contains:
 | [0212-word-search-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0401-binary-watch](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [1980-find-unique-binary-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Queue
 |  |
