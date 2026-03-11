@@ -4,8 +4,7 @@ class Solution:
         l , r = 0 , len(height) - 1
         while l < r:
             curr = (r - l ) * min(height[l], height[r])
-            if curr > area:
-                area = curr
+            area  = max(area, curr)
             if height[l] < height[r]:
                 l += 1
             else:
