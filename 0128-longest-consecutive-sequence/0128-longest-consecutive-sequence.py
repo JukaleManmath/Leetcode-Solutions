@@ -4,10 +4,11 @@ class Solution:
         nums = set(nums)
         res = 0
         for num in nums:
-            cnt = 1
-            while num + cnt in nums:
-                cnt += 1
-            res = max(res, cnt)
+            if num -1 not in nums:
+                cnt = 1
+                while num + cnt in nums:
+                    cnt += 1
+                res = max(res, cnt)
         return res
 
             
