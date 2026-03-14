@@ -6,14 +6,13 @@ class Solution:
 
         for i in range(9):
             for j in range(9):
-                box = (i // 3 , j // 3)
-                if board[i][j] == ".":
-                    continue
-                
                 curr = board[i][j]
-                if curr in rows[i] or curr in columns[j] or curr in boxes[box]:
+                if curr == ".":
+                    continue
+                if curr in rows[i] or curr in columns[j] or curr in boxes[(i//3,j//3)]:
                     return False
-                columns[j].append(curr)
+                
                 rows[i].append(curr)
-                boxes[box].append(curr)
+                columns[j].append(curr)
+                boxes[(i//3,j//3)].append(curr)
         return True
