@@ -12,10 +12,9 @@ class Solution:
         
         res = []
         for i in range(n, -1, -1):
-            if len(freq[i]) > 0:
-                for j in freq[i]:
-                    res.append(j)
-                    if len(res) == k:
-                        return res
+            for j in freq[i]:
+                res.append(j)
+                if len(res) == k:
+                    return res
         
 
