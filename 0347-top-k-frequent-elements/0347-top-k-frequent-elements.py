@@ -1,9 +1,21 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        # Brute force
+        mp = defaultdict(int)
+        for i in nums:
+            mp[i] += 1
+        
         n = len(nums)
-        frequent = {}
-        for i in range(n):
-            frequent[nums[i]] = 1 + frequent.get(nums[i], 0)
-        sorted_items = sorted(frequent.items(), key=lambda x:x[1], reverse = True)
-        return [item[0] for item in sorted_items[:k]]
+        freq = [[] for _ in range(n + 1)]
+
+        for i in mp:
+            freq[mp[i]].append(i)
+        
+        res = []
+        for i in range(n, -1, -1):
+            if len(freq[i]) > 0:
+                for j in freq[i]:
+                    res.append(j)
+                    if len(res) == k:
+                        return res
+        
+
