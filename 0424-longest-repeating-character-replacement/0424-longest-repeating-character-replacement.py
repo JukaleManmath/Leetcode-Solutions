@@ -13,5 +13,6 @@ class Solution:
             while (r - l + 1) - maxf > k:
                 mp[s[l]] -= 1
                 l += 1
+                maxf = max(maxf, mp[s[l]])
             res = max(res , r - l + 1)
         return res
