@@ -6,10 +6,9 @@ class Solution:
         res = 0
         while r < n:
             mp[s[r]] += 1
-            if mp[s[r]] > 1:
-                while l < r and mp[s[r]] > 1:
-                    mp[s[l]] -= 1
-                    l += 1
+            while mp[s[r]] > 1:
+                mp[s[l]] -= 1
+                l += 1
             res = max(res, r - l + 1)
             r += 1
         return res
