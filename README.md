@@ -130,6 +130,7 @@ Each problem folder contains:
 | [0219-contains-duplicate-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -645,6 +646,7 @@ Each problem folder contains:
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0355-design-twitter) |
@@ -792,6 +794,7 @@ Each problem folder contains:
 | [0076-minimum-window-substring](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
@@ -944,6 +947,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -1320,6 +1324,7 @@ Each problem folder contains:
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Graph Theory
 |  |
