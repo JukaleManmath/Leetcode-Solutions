@@ -1,35 +1,28 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        if not s or not t or len(s) < len(t):
-            return ""
-
-        countt = Counter(t)
-        window= {}
-        need = len(countt)
-        have = 0
+        mp1 = Counter(t)
+        mp2 = defaultdict(int)
+        char = set(t)
         n = len(s)
-        l = 0
+        start, end = 0, 0
         minlen = n + 1
         res = ""
-        for i in range(n):
-            ch = s[i]
-            window[ch] = window.get(ch, 0) + 1
-
-            if ch in t and window[ch] == countt[ch]:
-                have += 1
-
-            while have == need:
-                if i - l + 1 < minlen:
-                    minlen = i - l + 1
-                    res = s[l : i + 1]
-                
-                window[s[l]] -= 1
-                if s[l] in t and window[s[l]] < countt[s[l]]:
+        l = 0
+        required = len(mp1)
+        have = 0
+        for r in range(n):
+            mp2[s[r]] += 1
+            if s[r] in char:
+                if mp2[s[r]] == mp1[s[r]]:
+                    have +=1
+            
+            while have == required:
+                if minlen > r - l + 1:
+                    minlen = r - l + 1
+                    res = s[l:r +1]
+                mp2[s[l]] -= 1
+                if s[l] in char and mp2[s[l]] < mp1[s[l]]:
                     have -= 1
                 l += 1
-            
         return res
-
-
-
-                 
+                    
