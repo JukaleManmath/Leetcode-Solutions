@@ -1,17 +1,22 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        mp = {
-            ")" : "(",
-            "]": "[",
-            "}":"{"
-        }
         stack = []
-        for i in range(len(s)):
-            if s[i] in mp:
-                if stack and mp[s[i]] == stack[-1]:
-                     stack.pop()
+        for i in s:
+            if i == "]":
+                if stack and stack[-1] == "[":
+                    stack.pop()
                 else:
-                    return False 
-            else:    
-                stack.append(s[i])
+                    return False
+            elif i == "}":
+                if stack and stack[-1] == "{":
+                    stack.pop()
+                else:
+                    return False
+            elif i == ")":
+                if stack and stack[-1] == "(":
+                    stack.pop()
+                else:
+                    return False
+            else:
+                stack.append(i)
         return len(stack) == 0
