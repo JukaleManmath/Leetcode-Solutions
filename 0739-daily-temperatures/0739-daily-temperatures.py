@@ -6,9 +6,7 @@ class Solution:
 
         for i in range(n):
             while stack and temperatures[stack[-1]] < temperatures[i]:
-                res[stack[-1]] = i - stack[-1]
-                stack.pop()
+                curr = stack.pop()
+                res[curr] = i - curr
             stack.append(i)
-
         return res
-                
