@@ -1352,5 +1352,6 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
