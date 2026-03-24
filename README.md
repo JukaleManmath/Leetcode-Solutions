@@ -191,6 +191,7 @@ Each problem folder contains:
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
+| [1710-maximum-units-on-a-truck](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1876-map-of-highest-peak](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -626,6 +627,7 @@ Each problem folder contains:
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1710-maximum-units-on-a-truck](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -1174,6 +1176,7 @@ Each problem folder contains:
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1710-maximum-units-on-a-truck](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
