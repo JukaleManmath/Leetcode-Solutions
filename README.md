@@ -170,6 +170,7 @@ Each problem folder contains:
 | [0944-delete-columns-to-make-sorted](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0973-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -595,6 +596,7 @@ Each problem folder contains:
 | [0215-kth-largest-element-in-an-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0761-special-binary-string) |
+| [0973-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -622,6 +624,7 @@ Each problem folder contains:
 | [0853-car-fleet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0876-hand-of-straights](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0883-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -664,6 +667,7 @@ Each problem folder contains:
 | [0789-kth-largest-element-in-a-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1917-maximum-average-pass-ratio](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -702,6 +706,7 @@ Each problem folder contains:
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
@@ -865,6 +870,7 @@ Each problem folder contains:
 | [0509-fibonacci-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -1155,6 +1161,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [3623-count-number-of-trapezoids-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 ## Greedy
