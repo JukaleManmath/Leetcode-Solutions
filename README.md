@@ -1345,6 +1345,7 @@ Each problem folder contains:
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Rolling Hash
