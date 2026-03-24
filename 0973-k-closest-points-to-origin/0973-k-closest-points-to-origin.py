@@ -4,11 +4,9 @@ class Solution:
 
         for x, y in points:
             dist = math.sqrt(x ** 2 + y ** 2)
-            heapq.heappush(minheap, (dist, x, y))
+            heapq.heappush(minheap, (-dist, x, y))
+            if len(minheap) > k:
+                heapq.heappop(minheap)
+        return [[x, y] for _, x, y in minheap]
         
-        res = []
-        while k:
-            _, x, y = heapq.heappop(minheap)
-            res.append((x, y))
-            k -= 1
-        return res
+        
