@@ -1,29 +1,29 @@
 class Solution:
-    # BFS in a DAG finding cycle - Kahn's Algo.
-    def constructadj(self, n , prerequisites):
-        adj = [[] for _ in range(n)]
-        for ai, bi in prerequisites:
-            adj[bi].append(ai)
-        return adj
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        adj = self.constructadj(numCourses, prerequisites)
-        indegree = [0] * numCourses
+        pre = defaultdict(list)
 
-        for bi in range(numCourses):
-            for ai in adj[bi]:
-                indegree[ai] += 1
-        
-        q = deque([i for i in range(numCourses) if indegree[i] == 0])
+        for i, j in prerequisites:
+            pre[i].append(j)
 
-        res = []
-        while q:
-            node = q.popleft()
-            res.append(node)
-            for nei in adj[node]:
-                indegree[nei] -= 1
-                if indegree[nei] == 0:
-                    q.append(nei)
-        
-        if len(res) != numCourses:
-            return False
+        taken = set()
+
+        def dfs(course):
+            if not pre[course]:
+                return True
+            
+            if course in taken:
+                return False
+
+            taken.add(course)
+            for p in pre[course]:
+                if not dfs(p):
+                    return False
+            
+            pre[course] = []
+            return True
+
+        for i in range(numCourses):
+            if not dfs(i):
+                return False
         return True
+        
