@@ -1,70 +1,25 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        # dfs 1
-        # row , col = len(grid), len(grid[0])
-        # visited = [[False]* col for _ in range(row)]
-        # count = 0
-        
-        # def dfs(r, c):
-        #     if r < 0 or c < 0 or r >= row or c >= col or grid[r][c] == "0" or visited[r][c]:
-        #         return
-        #     visited[r][c] = True
+        m , n  = len(grid), len(grid[0])
+        seen = [[False] * n for _ in range(m)]
 
-        #     dfs(r+1, c)
-        #     dfs(r-1, c)
-        #     dfs(r, c+1)
-        #     dfs(r, c-1)
-
+        dir = [[1, 0], [-1, 0], [0,1], [0,-1]]
+        def dfs(i, j):
+            if i < 0 or i >= m or j < 0 or j >= n:
+                return
             
-        # for r in range(row):
-        #     for c in range(col):
-        #         if grid[r][c] == "1" and not visited[r][c]:
-        #             dfs(r, c )
-        #             count += 1
-        # return count
-
-        #dfs -2 recursive approach
-        # row , col = len(grid), len(grid[0])
-        # isIlands = 0
-        # directions = [[1,0], [-1,0], [0,1], [0, -1]]
-
-        # def dfs(r , c):
-        #     if r < 0 or c <0 or r >= row or c>= col or grid[r][c] == "0":
-        #         return
+            if grid[i][j] == "0" or seen[i][j]:
+                return
             
-        #     grid[r][c] = "0"
-        #     for dr, dc in directions:
-        #         dfs(r + dr, c + dc)
-        # for r in range(row):
-        #     for c in range(col):
-        #         if grid[r][c] == "1":
-        #             dfs(r, c)
-        #             isIlands += 1
-        # return isIlands
+            seen[i][j] = True
+            for x, y in dir:
+                nx, ny = i + x, j + y
+                dfs(nx, ny)
 
-        # bfs - Iterative approach
-        row , col = len(grid), len(grid[0])
-        isIlands = 0
-        directions = [[1,0], [-1,0], [0,1], [0, -1]]
-
-        def bfs(r, c):
-            q = deque()
-            grid[r][c] = "0"
-            q.append((r, c))
-
-            while q:
-                rr, rc = q.popleft()
-                for dr, dc in directions:
-                    nr, nc = rr+dr , rc + dc
-                    if nr < 0 or nc < 0 or nr >= row or nc >= col or grid[nr][nc] == "0":
-                        continue
-                    q.append((nr, nc))
-                    grid[nr][nc] = "0" 
-
-        for r in range(row):
-            for c in range(col):
-                if grid[r][c] == "1":
-                    bfs(r, c)
-                    isIlands += 1
-        return isIlands
-
+        res = 0
+        for i in range(m):
+            for j in range(n):
+                if grid[i][j] == "1" and not seen[i][j]:
+                    res += 1
+                    dfs(i, j)
+        return res
