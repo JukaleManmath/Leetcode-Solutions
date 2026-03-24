@@ -1,25 +1,25 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        coins.sort(reverse = True)
         n = len(coins)
-        dp = [[float("inf") for _ in range(amount + 1)] for _ in range(n)] 
-        def dfs(i, tar):
-            if i >= n:
-                if tar == 0:
-                    return 0
-                else:
-                    return float("inf")
-            if dp[i][tar] != float("inf"):
-                return dp[i][tar]
+        dp = [[-1] * (amount + 1) for _ in range(n)] 
+        def rec(i, tar):
             if tar == 0:
                 return 0
-            take = float("inf")
-            if coins[i] <= tar:
-                take = dfs(i + 1 , tar % coins[i]) + (tar // coins[i])
-            notake = dfs(i  + 1, tar)
+            if i == 0:
+                return tar // coins[0] if tar % coins[0] == 0 else float("inf")
 
-            dp[i][tar] =  min(take, notake)
+            if dp[i][tar] != -1:
+                return dp[i][tar]
+            
+            notake = rec(i - 1, tar)
+            take= float("inf")
+            if tar >=  coins[i]:
+                take = 1 + rec(i, tar - coins[i])
+            dp[i][tar] = min(take, notake)
             return dp[i][tar]
-        res  = dfs(0 , amount)
-        return res if res != float("inf") else -1
+        
+        res = rec(n-1, amount)
+        if res == float("inf"):
+            return -1
+        return res
 
