@@ -22,22 +22,25 @@ class Solution:
         # if res == float("inf"):
         #     return -1
         # return res
+        
+        # tabulation
+        
+        prev , curr = [0] * (amount + 1), [0] * (amount + 1)
 
         for t in range(amount + 1):
             if t % coins[0] == 0:
-                dp[0][t] = t // coins[0]
+                prev[t] = t // coins[0]
             else:
-                dp[0][t] = float("inf")
+                prev[t] = float("inf")
         
         for i in range(1, n):
             for t in range(amount + 1):
-                notake = dp[i - 1][t]
+                notake = prev[t]
                 take = float("inf")
                 if coins[i] <= t:
-                    take = 1 + dp[i][t - coins[i]]
-                dp[i][t] = min(take, notake)
-        res = dp[n -1][amount]
-        if res == float("inf"):
-            return -1
-        return res
+                    take = 1 + curr[t - coins[i]]
+                curr[t] = min(take, notake)
+            prev = curr
+        
+        return prev[amount] if prev[amount] != float("inf") else -1
 
