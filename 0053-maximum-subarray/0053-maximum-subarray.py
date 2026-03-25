@@ -4,9 +4,6 @@ class Solution:
         curr = nums[0]
         
         for i in range(1, len(nums)):
-            if curr < nums[i]:
-                curr = nums[i]
-            else:
-                curr += nums[i]
+            curr = max(nums[i] , curr + nums[i])
             res = max(res, curr)
         return res
