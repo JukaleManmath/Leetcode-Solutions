@@ -1,7 +1,7 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
         n = len(coins)
-        dp = [[float("inf")] * (amount + 1) for _ in range(n)] 
+        dp = [[0] * (amount + 1) for _ in range(n)] 
         # def rec(i, tar):
         #     if tar == 0:
         #         return 0
