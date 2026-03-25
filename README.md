@@ -401,6 +401,7 @@ Each problem folder contains:
 | [0977-distinct-subsequences-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0977-distinct-subsequences-ii) |
 | [1006-vowel-spellchecker](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [1143-longest-common-subsequence](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -757,6 +758,7 @@ Each problem folder contains:
 | [0803-cheapest-flights-within-k-stops](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0977-distinct-subsequences-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0977-distinct-subsequences-ii) |
+| [1143-longest-common-subsequence](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
