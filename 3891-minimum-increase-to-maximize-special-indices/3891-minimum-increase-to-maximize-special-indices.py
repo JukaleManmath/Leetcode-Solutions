@@ -14,21 +14,19 @@ class Solution:
                 res += cost[i]
             return res
 
+        dp = [[-1] * 2 for _ in range(n)]
 
-
-        @lru_cache(None)
-        def rec(i):
-            if  i >= n - 1:
-                return (0 , 0)
-
-            scnt, sco = rec( i + 1)
-            takecnt , takeco = rec( i + 2)
-            takecnt += 1
-            takeco += cost[i]
-
-            if takecnt > scnt:
-                return (takecnt, takeco)
-            if takecnt < scnt:
-                return (scnt, sco)
-            return (takecnt, min(takeco, sco))
-        return rec(1)[1]
+        def dfs(i, skipped):
+            if i >= n - 1:
+                return 0
+            if dp[i][skipped] != -1:
+                return dp[i][skipped] 
+            if skipped:
+                dp[i][skipped]  =  cost[i] + dfs(i + 2, True)
+                return dp[i][skipped] 
+            
+            dp[i][skipped] = min(cost[i] + dfs(i + 2, False), cost[i] + dfs(i + 3, True))
+            return dp[i][skipped] 
+            
+        return min(dfs(1, False), dfs(2, True))
+    
