@@ -390,6 +390,7 @@ Each problem folder contains:
 | [0383-ransom-note](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0449-serialize-and-deserialize-bst](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0474-ones-and-zeroes](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -844,6 +845,7 @@ Each problem folder contains:
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0449-serialize-and-deserialize-bst](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -1031,6 +1033,7 @@ Each problem folder contains:
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -1065,6 +1068,7 @@ Each problem folder contains:
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0449-serialize-and-deserialize-bst](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0684-redundant-connection) |
@@ -1102,6 +1106,7 @@ Each problem folder contains:
 | [0322-coin-change](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0449-serialize-and-deserialize-bst](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0684-redundant-connection](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0744-network-delay-time) |
@@ -1137,6 +1142,7 @@ Each problem folder contains:
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1161,6 +1167,7 @@ Each problem folder contains:
 | [0098-validate-binary-search-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1382-balance-a-binary-search-tree](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Data Stream
