@@ -750,6 +750,7 @@ Each problem folder contains:
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -994,6 +995,7 @@ Each problem folder contains:
 | [0287-find-the-duplicate-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0397-integer-replacement](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -1191,6 +1193,7 @@ Each problem folder contains:
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0135-candy) |
+| [0397-integer-replacement](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
@@ -1276,6 +1279,7 @@ Each problem folder contains:
 | [0070-climbing-stairs](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Segment Tree
