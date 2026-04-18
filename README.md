@@ -920,6 +920,7 @@ Each problem folder contains:
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/3830-find-closest-person) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/JukaleManmath/Leetcode-Solutions/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Linked List
